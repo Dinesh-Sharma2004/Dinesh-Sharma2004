@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dinesh-Sharma2004
-- 👀 I’m interested in Machine learning and data science
+- 👀 I’m interested in Machine learning 
 
 
 <!---
