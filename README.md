@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dinesh-Sharma2004
-- I’m interested in Machine learning
-- Interest in open source contribution
-- Feel free to reach out 😊
+- 👋 Hi, I’m @Dinesh-Sharma2004 aka Dinesh
+- Practicing machine learning and looking forward to emphasize my growth in the field of machine learning and data science
+- Looking forward to contribute
 
 
 <!---
