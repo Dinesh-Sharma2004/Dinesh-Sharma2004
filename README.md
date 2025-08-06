@@ -1,5 +1,5 @@
 - Hi, I’m @Dinesh-Sharma2004 aka Dinesh
-- Practicing machine learning and looking forward to emphasize my growth in the field of machine learning and data science
+- Practicing machine learning and looking forward to emphasize my growth in the field of machine learning and Generative AI
 - Looking forward to contribute
 
 
