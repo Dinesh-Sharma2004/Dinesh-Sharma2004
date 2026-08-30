@@ -120,12 +120,3 @@
   </a>
 </p>
 
-<!-- ASCII Art Credits (Collapsed) -->
-<details>
-<summary>Credits & Art Citations</summary>
-
-- Sword Art (with DINESH name): [asciiart.eu/art/bcb70034c60b87a7](https://www.asciiart.eu/art/bcb70034c60b87a7)
-- Blackadder Sword: [asciiart.eu/art/1dbd8f4fb64bc31a](https://www.asciiart.eu/art/1dbd8f4fb64bc31a)
-- Dagger/Shortsword: [asciiart.eu/art/3238ac8aaf79b5d1](http://asciiart.eu/art/3238ac8aaf79b5d1)
-- Whistling Doom Sword: [asciiart.eu/art/54be5f613e480204](https://www.asciiart.eu/art/54be5f613e480204)
-</details>
