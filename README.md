@@ -13,9 +13,9 @@
 ### 🛠️ Currently Working On
 <!-- GEN:currently-building start -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dinesh-Sharma2004/Dinesh-Sharma2004/main/assets/currently-building-dark.svg?v=26a44d65">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dinesh-Sharma2004/Dinesh-Sharma2004/main/assets/currently-building-light.svg?v=26a44d65">
-  <img alt="Currently building: Medical_chatbot (active); TripCaspian (active); FactLens (active)" src="https://raw.githubusercontent.com/Dinesh-Sharma2004/Dinesh-Sharma2004/main/assets/currently-building-dark.svg?v=26a44d65" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dinesh-Sharma2004/Dinesh-Sharma2004/main/assets/currently-building-dark.svg?v=fa0d6c62">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dinesh-Sharma2004/Dinesh-Sharma2004/main/assets/currently-building-light.svg?v=fa0d6c62">
+  <img alt="Currently building: Medical_chatbot (active); TripCaspian (active); FactLens (active)" src="https://raw.githubusercontent.com/Dinesh-Sharma2004/Dinesh-Sharma2004/main/assets/currently-building-dark.svg?v=fa0d6c62" width="100%">
 </picture>
 
 - **[Medical_chatbot](https://github.com/Dinesh-Sharma2004/Medical_chatbot)** &mdash; PDF-grounded RAG service with off-path ingestion workers.  
