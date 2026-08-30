@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 318" width="1000" height="318" role="img" aria-labelledby="t">
+  <title id="t">Developer activity</title>
+  <style>
+
+    text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif; }
+    .m { font-family: ui-monospace,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,'Liberation Mono',monospace; }
+    .fg { fill: #e6edf3; } .fg2 { fill: #9198a1; } .fg3 { fill: #636c76; }
+    .ac { fill: #58a6ff; } .gr { fill: #3fb950; } .am { fill: #d29922; }
+    .b { font-weight: 650; }
+    .card { fill: #10151c; stroke: #232b36; stroke-width: 1; }
+    .rule { stroke: #1c232d; stroke-width: 1; }
+    .wire { fill: none; stroke: #232b36; stroke-width: 1.25; }
+    .flow { fill: none; stroke: #58a6ff; stroke-width: 1.25;
+             stroke-opacity: .5; stroke-dasharray: 3 7;
+             animation: flow 1.9s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -20; } }
+    .rise { opacity: 1; animation: rise .7s cubic-bezier(.2,.7,.3,1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); }
+                       to   { opacity: 1; transform: translateY(0); } }
+    .fade { opacity: 1; animation: fade .8s ease-out both; }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    .pulse { animation: pulse 2.8s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .95; } 50% { opacity: .35; } }
+    .halo { animation: halo 2.8s ease-in-out infinite; }
+    @keyframes halo { 0% { r: 4; opacity: .55; }
+                       70%,100% { r: 11; opacity: 0; } }
+    .draw { stroke-dasharray: 1200; stroke-dashoffset: 0;
+             animation: draw 1.6s ease-out both; }
+    @keyframes draw { from { stroke-dashoffset: 1200; }
+                       to { stroke-dashoffset: 0; } }
+    .caret { animation: caret 1.05s steps(1) infinite; }
+    @keyframes caret { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .flow, .rise, .fade, .pulse, .halo, .draw, .caret, .sweep, .typer, .dot
+        { animation: none !important; }
+      .halo { opacity: 0; }
+    }
+
+    .sweep { animation: sweep 7s cubic-bezier(.4,0,.2,1) infinite; }
+    @keyframes sweep { 0% { transform: translateX(0); }
+                        60%,100% { transform: translateX(1320px); } }
+
+    .cell { animation: cellin .5s ease-out both; }
+    @keyframes cellin { from { opacity: 0; } to { opacity: 1; } }
+    .bar { animation: grow .9s cubic-bezier(.2,.7,.3,1) both; }
+    @keyframes grow { from { opacity: .2; } to { opacity: 1; } }
+
+  </style>
+  <defs>
+    <linearGradient id="pg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0b0f14"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#58a6ff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#161c24"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="318" rx="10" fill="url(#pg)"/>
+  <rect width="1000" height="318" rx="10" fill="url(#dots)"/>
+  <rect x=".5" y=".5" width="999" height="317" rx="9.5"
+        fill="none" stroke="#232b36"/>
+  <g clip-path="inset(0 round 10px)">
+    <rect class="sweep" x="-320" y="0" width="320" height="1.5" fill="url(#sweep)"/>
+  </g>
+  <text class="m b fg2" x="22" y="30" font-size="11.5" letter-spacing="2.4">DEVELOPER ACTIVITY</text>
+  <text class="m fg3" x="978" y="30" font-size="10.5" text-anchor="end">synced 2026-08-30</text>
+  <line class="rule" x1="22" y1="42" x2="978" y2="42"/>
+  <text class="m fg3" x="22" y="66" font-size="9" letter-spacing="1.4">CONTRIBUTION CALENDAR</text>
+  <rect x="34" y="78" width="560" height="86" rx="8" fill="none" stroke="#232b36" stroke-dasharray="4 4"/>
+  <text class="m fg3" x="314" y="118" font-size="10.5" text-anchor="middle">calendar populates on the next scheduled sync</text>
+  <text class="m fg3" x="314" y="136" font-size="9" text-anchor="middle">(needs GITHUB_TOKEN, supplied by the workflow)</text>
+  <g class="rise" style="animation-delay:0.10s">
+    <rect class="card" x="646" y="78" width="164" height="46" rx="7"/>
+    <text class="m b" x="658" y="104" font-size="20" fill="#e6edf3">26</text>
+    <text class="m fg3" x="658" y="118" font-size="9">public repos</text>
+  </g>
+  <g class="rise" style="animation-delay:0.16s">
+    <rect class="card" x="822" y="78" width="164" height="46" rx="7"/>
+    <text class="m b" x="834" y="104" font-size="20" fill="#e6edf3">3</text>
+    <text class="m fg3" x="834" y="118" font-size="9">active / 30d</text>
+  </g>
+  <g class="rise" style="animation-delay:0.22s">
+    <rect class="card" x="646" y="134" width="164" height="46" rx="7"/>
+    <text class="m b" x="658" y="160" font-size="20" fill="#e6edf3">56</text>
+    <text class="m fg3" x="658" y="174" font-size="9">technologies</text>
+  </g>
+  <g class="rise" style="animation-delay:0.28s">
+    <rect class="card" x="822" y="134" width="164" height="46" rx="7"/>
+    <text class="m b" x="834" y="160" font-size="20" fill="#e6edf3">7</text>
+    <text class="m fg3" x="834" y="174" font-size="9">languages</text>
+  </g>
+  <text class="m fg3" x="22" y="218" font-size="9" letter-spacing="1.4">LANGUAGE SHARE BY BYTES</text>
+  <rect class="bar" x="22.0" y="228" width="417.9" height="14" rx="3" fill="#58a6ff" fill-opacity=".85" style="animation-delay:0.10s"/>
+  <rect class="bar" x="441.9" y="228" width="349.2" height="14" rx="3" fill="#3fb950" fill-opacity=".85" style="animation-delay:0.17s"/>
+  <rect class="bar" x="793.2" y="228" width="113.1" height="14" rx="3" fill="#a371f7" fill-opacity=".85" style="animation-delay:0.24s"/>
+  <rect class="bar" x="908.3" y="228" width="38.6" height="14" rx="3" fill="#d29922" fill-opacity=".85" style="animation-delay:0.31s"/>
+  <rect class="bar" x="949.0" y="228" width="17.4" height="14" rx="3" fill="#9198a1" fill-opacity=".85" style="animation-delay:0.38s"/>
+  <rect class="bar" x="968.3" y="228" width="7.7" height="14" rx="3" fill="#6e7681" fill-opacity=".85" style="animation-delay:0.45s"/>
+  <circle cx="26.0" cy="264" r="4" fill="#58a6ff" fill-opacity=".85"/>
+  <text class="m fg2" x="36.0" y="267" font-size="10">Python 43%</text>
+  <circle cx="122.0" cy="264" r="4" fill="#3fb950" fill-opacity=".85"/>
+  <text class="m fg2" x="132.0" y="267" font-size="10">TypeScript 36%</text>
+  <circle cx="242.0" cy="264" r="4" fill="#a371f7" fill-opacity=".85"/>
+  <text class="m fg2" x="252.0" y="267" font-size="10">JavaScript 12%</text>
+  <circle cx="362.0" cy="264" r="4" fill="#d29922" fill-opacity=".85"/>
+  <text class="m fg2" x="372.0" y="267" font-size="10">Jupyter Notebook 4%</text>
+  <circle cx="512.0" cy="264" r="4" fill="#9198a1" fill-opacity=".85"/>
+  <text class="m fg2" x="522.0" y="267" font-size="10">CSS 2%</text>
+  <circle cx="584.0" cy="264" r="4" fill="#6e7681" fill-opacity=".85"/>
+  <text class="m fg2" x="594.0" y="267" font-size="10">Java 1%</text>
+  <text class="m fg3" x="22" y="304" font-size="9.5">last push  2026-08-23  -&gt;  Medical_chatbot</text>
+  <text class="m fg3" x="978" y="304" font-size="9.5" text-anchor="end">17 push events  2026-08-09 .. 2026-08-30</text>
+</svg>

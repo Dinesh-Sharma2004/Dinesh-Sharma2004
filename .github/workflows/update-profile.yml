@@ -1,0 +1,62 @@
+name: update profile
+
+# Re-derives the whole page from the GitHub API. Everything the README shows is
+# generated, so this is the only thing that needs to run for it to stay current.
+#
+# GITHUB_TOKEN is passed in as an environment variable and read by scripts/gh.py.
+# It is never printed and never written to a generated file. It lifts the API
+# rate limit and is what makes the contribution calendar available at all, since
+# that data only exists on the GraphQL API.
+
+on:
+  schedule:
+    # 05:43 UTC daily. Deliberately off the hour: scheduled runs cluster hard on
+    # :00 and get delayed.
+    - cron: "43 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    # README.md, assets/ and data/ are outputs. Only rerun when an input changes.
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-profile.yml"
+
+permissions:
+  contents: write
+
+# A queued run would only ever overwrite the previous one's output.
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          # No pip step: the scripts are standard library only.
+
+      - name: Build profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Always hit the API in CI; the local response cache is a dev-loop
+          # convenience and a scheduled run should never serve stale data.
+          PROFILE_NO_CACHE: "1"
+        run: python scripts/build.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets data
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git diff --cached --stat
+          git commit -m "chore: refresh profile from GitHub activity"
+          git push

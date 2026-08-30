@@ -1,0 +1,15 @@
+# Local API response cache (scripts/gh.py). Not useful to anyone else and it
+# would go stale in the repo.
+.cache/
+
+# Scratch space used while developing the generator.
+.scratch/
+
+# Local dev server config for previewing the generated SVGs.
+.claude/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store

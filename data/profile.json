@@ -1,0 +1,1893 @@
+{
+  "generated_at": "2026-08-30T06:47:04Z",
+  "user": {
+    "login": "Dinesh-Sharma2004",
+    "name": "Dinesh Sharma",
+    "url": "https://github.com/Dinesh-Sharma2004",
+    "avatar": "https://avatars.githubusercontent.com/u/153713000?v=4",
+    "public_repos": 26,
+    "followers": 1,
+    "created_at": "2023-12-13T07:23:53Z",
+    "years_on_github": 2.7
+  },
+  "identity": {
+    "tagline": "Backend & AI systems engineer",
+    "subline": "I build retrieval and LLM-backed services in Python, then containerise and ship them.",
+    "links": [
+      [
+        "GitHub",
+        "https://github.com/Dinesh-Sharma2004"
+      ],
+      [
+        "Portfolio",
+        "https://personal-portfolio-puce-chi-17.vercel.app"
+      ]
+    ]
+  },
+  "repos": [
+    {
+      "name": "Medical_chatbot",
+      "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot",
+      "homepage": null,
+      "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions based on uploaded PDF documents. It uses Hugging Face models for embedding and language generation, FAISS for vector storage, and React frontend for an interactive chat interface.",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 228604,
+        "JavaScript": 137497,
+        "Dockerfile": 2332,
+        "HTML": 1707,
+        "CSS": 1666,
+        "Shell": 64
+      },
+      "vendored": false,
+      "stars": 4,
+      "forks": 1,
+      "topics": [
+        "embedding-models",
+        "faiss",
+        "html-css-javascript",
+        "javascript",
+        "langchain-groq",
+        "llm",
+        "python",
+        "rag-chatbot",
+        "rag-pipeline",
+        "vector-database",
+        "vite"
+      ],
+      "created_at": "2025-03-19T16:03:10Z",
+      "pushed_at": "2026-08-23T11:44:41Z",
+      "days_since_push": 6,
+      "file_count": 155,
+      "tech": [
+        "LangChain",
+        "FAISS",
+        "Hugging Face",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "RQ",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Docker Compose",
+        "Kubernetes",
+        "GitLab CI",
+        "Prometheus",
+        "Grafana",
+        "Nginx",
+        "Render",
+        "unittest"
+      ],
+      "push_events_30d": 7
+    },
+    {
+      "name": "TripCaspian",
+      "url": "https://github.com/Dinesh-Sharma2004/TripCaspian",
+      "homepage": "https://trip-caspian.vercel.app",
+      "description": "AI business commitment agent that turns conversational promises into trackable obligations and proactively follows up when they need attention. Built with Caspian.",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 194515,
+        "Dockerfile": 348
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [
+        "ai-agents",
+        "apscheduler",
+        "caspian-sdk",
+        "discord-bot",
+        "irctc",
+        "python",
+        "redbus",
+        "sqlite",
+        "telegrambot",
+        "travel-agent",
+        "trip-planner",
+        "uber-api",
+        "vercel"
+      ],
+      "created_at": "2026-07-27T13:55:06Z",
+      "pushed_at": "2026-08-12T07:50:44Z",
+      "days_since_push": 17,
+      "file_count": 37,
+      "tech": [
+        "APScheduler",
+        "SQLAlchemy",
+        "Docker",
+        "Vercel",
+        "pytest",
+        "unittest"
+      ],
+      "push_events_30d": 8
+    },
+    {
+      "name": "FactLens",
+      "url": "https://github.com/Dinesh-Sharma2004/FactLens",
+      "homepage": "https://frontend-production-321d.up.railway.app/",
+      "description": null,
+      "primary_language": "Python",
+      "languages": {
+        "Python": 121889,
+        "JavaScript": 47769,
+        "CSS": 5614,
+        "Dockerfile": 548,
+        "HTML": 296
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-02-14T17:33:48Z",
+      "pushed_at": "2026-08-11T12:44:38Z",
+      "days_since_push": 18,
+      "file_count": 88,
+      "tech": [
+        "LangChain",
+        "FAISS",
+        "Groq",
+        "Hugging Face",
+        "PyTorch",
+        "Whisper",
+        "CLIP / ViT",
+        "scikit-learn",
+        "NumPy",
+        "OpenCV",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "BeautifulSoup",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Redis",
+        "Docker",
+        "Nginx",
+        "Render",
+        "ESLint"
+      ],
+      "push_events_30d": 2
+    },
+    {
+      "name": "Dinesh-Sharma",
+      "url": "https://github.com/Dinesh-Sharma2004/Dinesh-Sharma",
+      "homepage": "https://personal-portfolio-puce-chi-17.vercel.app",
+      "description": null,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 175965,
+        "CSS": 6851,
+        "HTML": 1089
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-07-22T16:43:58Z",
+      "pushed_at": "2026-07-23T09:51:21Z",
+      "days_since_push": 37,
+      "file_count": 36,
+      "tech": [
+        "Express",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GitHub Actions",
+        "Vercel",
+        "Bun"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "KYC_Face_Verifier",
+      "url": "https://github.com/Dinesh-Sharma2004/KYC_Face_Verifier",
+      "homepage": null,
+      "description": null,
+      "primary_language": "Python",
+      "languages": {
+        "Python": 102278,
+        "TypeScript": 60451,
+        "HTML": 1980,
+        "JavaScript": 770,
+        "CSS": 508,
+        "Dockerfile": 283
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-07-22T04:31:24Z",
+      "pushed_at": "2026-07-22T08:30:53Z",
+      "days_since_push": 38,
+      "file_count": 77,
+      "tech": [
+        "scikit-learn",
+        "pandas",
+        "OpenCV",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "RQ",
+        "Streamlit",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "TanStack Query",
+        "PostgreSQL",
+        "Redis",
+        "SQLAlchemy",
+        "Docker",
+        "Docker Compose",
+        "GitHub Actions",
+        "Prometheus",
+        "Render",
+        "Fly.io",
+        "unittest"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "MagicPin-challenge",
+      "url": "https://github.com/Dinesh-Sharma2004/MagicPin-challenge",
+      "homepage": "https://magicpin-ai-challenge-nx1e.onrender.com/",
+      "description": "A backend service that generates personalized messages for merchants based on their business data, performance, and current events using deterministic decision logic.",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 92750
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-07-02T14:33:09Z",
+      "pushed_at": "2026-07-02T16:21:54Z",
+      "days_since_push": 58,
+      "file_count": 35,
+      "tech": [
+        "FastAPI",
+        "Uvicorn",
+        "pytest"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "Apna-Fit",
+      "url": "https://github.com/Dinesh-Sharma2004/Apna-Fit",
+      "homepage": null,
+      "description": null,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 183734,
+        "CSS": 8035,
+        "HTML": 296
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-05-24T16:58:24Z",
+      "pushed_at": "2026-06-29T12:27:36Z",
+      "days_since_push": 61,
+      "file_count": 28,
+      "tech": [
+        "Express",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "GSAP"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "HLE-Benchmark-Test",
+      "url": "https://github.com/Dinesh-Sharma2004/HLE-Benchmark-Test",
+      "homepage": null,
+      "description": null,
+      "primary_language": "Python",
+      "languages": {
+        "Python": 133453
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-06-20T06:16:00Z",
+      "pushed_at": "2026-06-20T09:20:02Z",
+      "days_since_push": 70,
+      "file_count": 40,
+      "tech": [
+        "OpenRouter",
+        "scikit-learn",
+        "NumPy",
+        "pandas",
+        "Pydantic",
+        "unittest"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "Affordmed_assignment",
+      "url": "https://github.com/Dinesh-Sharma2004/Affordmed_assignment",
+      "homepage": null,
+      "description": null,
+      "primary_language": "Python",
+      "languages": {
+        "Python": 4739
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-05-09T05:15:42Z",
+      "pushed_at": "2026-05-09T06:34:38Z",
+      "days_since_push": 113,
+      "file_count": 13,
+      "tech": [
+        "Flask"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "UPSC-Tracker",
+      "url": "https://github.com/Dinesh-Sharma2004/UPSC-Tracker",
+      "homepage": null,
+      "description": null,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 592951,
+        "Java": 31911,
+        "CSS": 13578,
+        "HTML": 4969,
+        "PLpgSQL": 4158,
+        "JavaScript": 3979,
+        "Shell": 72
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-05-07T13:52:43Z",
+      "pushed_at": "2026-05-07T16:22:08Z",
+      "days_since_push": 114,
+      "file_count": 266,
+      "tech": [
+        "Express",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Framer Motion",
+        "TanStack Query",
+        "Recharts",
+        "PostgreSQL",
+        "Drizzle ORM",
+        "Vercel",
+        "pnpm"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "Data-Scrapping-Assignment",
+      "url": "https://github.com/Dinesh-Sharma2004/Data-Scrapping-Assignment",
+      "homepage": null,
+      "description": "This is a Python-based multi-source scraping and trust scoring system. It collects content from three types of sources: blog/web articles, YouTube videos, and PubMed articles. The system extracts useful metadata and content, processes the text with basic NLP utilities, calculates a trust score, and saves the final structured results into JSON.",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 27628
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-05-05T04:54:21Z",
+      "pushed_at": "2026-05-06T03:59:07Z",
+      "days_since_push": 116,
+      "file_count": 17,
+      "tech": [
+        "scikit-learn",
+        "BeautifulSoup"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "Magic-Pin-AI",
+      "url": "https://github.com/Dinesh-Sharma2004/Magic-Pin-AI",
+      "homepage": null,
+      "description": null,
+      "primary_language": "Python",
+      "languages": {
+        "Python": 74814,
+        "PowerShell": 218,
+        "Batchfile": 113
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-05-02T13:02:41Z",
+      "pushed_at": "2026-05-03T07:18:32Z",
+      "days_since_push": 118,
+      "file_count": 26,
+      "tech": [
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "Render"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "ML_Semester_Project",
+      "url": "https://github.com/Dinesh-Sharma2004/ML_Semester_Project",
+      "homepage": null,
+      "description": null,
+      "primary_language": "Python",
+      "languages": {
+        "Python": 29752,
+        "JavaScript": 22974,
+        "CSS": 10823,
+        "HTML": 4713
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-10-19T03:56:36Z",
+      "pushed_at": "2026-04-09T16:48:19Z",
+      "days_since_push": 142,
+      "file_count": 16,
+      "tech": [
+        "scikit-learn",
+        "LightGBM",
+        "NumPy",
+        "pandas",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "ET_Hack",
+      "url": "https://github.com/Dinesh-Sharma2004/ET_Hack",
+      "homepage": null,
+      "description": null,
+      "primary_language": "Python",
+      "languages": {
+        "Python": 171941,
+        "JavaScript": 58491,
+        "Dockerfile": 3889,
+        "Batchfile": 1256,
+        "HTML": 608,
+        "CSS": 209
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-03-28T19:49:50Z",
+      "pushed_at": "2026-03-29T12:17:27Z",
+      "days_since_push": 153,
+      "file_count": 190,
+      "tech": [
+        "FAISS",
+        "Hugging Face",
+        "PyTorch",
+        "scikit-learn",
+        "NumPy",
+        "pandas",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "Celery",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Recharts",
+        "PostgreSQL",
+        "Redis",
+        "SQLAlchemy",
+        "Docker",
+        "Docker Compose",
+        "GitHub Actions",
+        "Prometheus"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "Intelli-credit",
+      "url": "https://github.com/Dinesh-Sharma2004/Intelli-credit",
+      "homepage": null,
+      "description": null,
+      "primary_language": "TypeScript",
+      "languages": {
+        "TypeScript": 115160,
+        "Python": 57571,
+        "CSS": 9281,
+        "Batchfile": 3426,
+        "Shell": 3321,
+        "JavaScript": 1476,
+        "Dockerfile": 937
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-03-04T09:02:59Z",
+      "pushed_at": "2026-03-17T08:58:43Z",
+      "days_since_push": 165,
+      "file_count": 59,
+      "tech": [
+        "LangChain",
+        "Hugging Face",
+        "PyTorch",
+        "scikit-learn",
+        "NumPy",
+        "pandas",
+        "OpenCV",
+        "Tesseract OCR",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "BeautifulSoup",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "TanStack Query",
+        "Recharts",
+        "Docker",
+        "Docker Compose"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "Taxi-Booking",
+      "url": "https://github.com/Dinesh-Sharma2004/Taxi-Booking",
+      "homepage": null,
+      "description": "Demonstrated the taxi booking systems implementation and integrated google maps api key. Also introduce an extra feature of rebooking to reduce the hustle to again book the taxi after clicking on cancel button.",
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 40421,
+        "Python": 12769,
+        "CSS": 2792,
+        "HTML": 1721
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-11-16T08:03:01Z",
+      "pushed_at": "2026-02-07T09:03:12Z",
+      "days_since_push": 203,
+      "file_count": 26,
+      "tech": [
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "Streamlit",
+        "React"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "Trading-bot",
+      "url": "https://github.com/Dinesh-Sharma2004/Trading-bot",
+      "homepage": null,
+      "description": "A full-stack Binance USDT-M Futures trading bot with an interactive React dashboard and a Flask API backend. The system supports market, limit, stop-limit, OCO, TWAP, and grid trading strategies, along with real-time candlestick charts, order book visualization, and WebSocket-based price updates.",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 42444,
+        "JavaScript": 38225,
+        "CSS": 1477,
+        "HTML": 355
+      },
+      "vendored": false,
+      "stars": 1,
+      "forks": 0,
+      "topics": [
+        "algorithmic-trading",
+        "api-integration",
+        "binance",
+        "binance-future",
+        "crypto-trading-system",
+        "financial-markets",
+        "financial-metrics",
+        "flask",
+        "full-stack",
+        "grid-trading",
+        "oco-orders",
+        "order-book",
+        "react",
+        "real-time-data",
+        "trading-bot-",
+        "twap",
+        "websockets"
+      ],
+      "created_at": "2025-12-13T10:27:12Z",
+      "pushed_at": "2025-12-13T10:29:00Z",
+      "days_since_push": 259,
+      "file_count": 41,
+      "tech": [
+        "Flask",
+        "WebSockets",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Gunicorn",
+        "uv",
+        "ESLint"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "ML_Algorithm_from_scratch",
+      "url": "https://github.com/Dinesh-Sharma2004/ML_Algorithm_from_scratch",
+      "homepage": null,
+      "description": "This repository contains implementations of fundamental Machine Learning algorithms from scratch using only Python and core libraries like NumPy , Pandas and Matplotlib.",
+      "primary_language": "Jupyter Notebook",
+      "languages": {
+        "Jupyter Notebook": 129802,
+        "Python": 49514
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [
+        "decision-trees",
+        "kmeans-clustering",
+        "knn-algorithm",
+        "linear-regression",
+        "logistic-regression",
+        "machine-learning-algorithms",
+        "naive-bayes-classifier",
+        "random-forest",
+        "svm-classifier"
+      ],
+      "created_at": "2025-09-21T06:38:56Z",
+      "pushed_at": "2025-11-10T04:29:02Z",
+      "days_since_push": 293,
+      "file_count": 15,
+      "tech": [],
+      "push_events_30d": 0
+    },
+    {
+      "name": "Medibot-frontend-Demo",
+      "url": "https://github.com/Dinesh-Sharma2004/Medibot-frontend-Demo",
+      "homepage": null,
+      "description": null,
+      "primary_language": "JavaScript",
+      "languages": {
+        "JavaScript": 18048,
+        "CSS": 424,
+        "HTML": 287
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-10-20T05:36:16Z",
+      "pushed_at": "2025-10-20T06:32:35Z",
+      "days_since_push": 314,
+      "file_count": 19,
+      "tech": [
+        "React",
+        "Vite",
+        "Tailwind CSS"
+      ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "tweeter-assistant",
+      "url": "https://github.com/Dinesh-Sharma2004/tweeter-assistant",
+      "homepage": "https://tweeter-assistant.onrender.com/",
+      "description": "A conversational AI agent built with Python that empowers you to effortlessly manage your Twitter presence. Leverage Google's Gemini AI to generate creative tweets and post them directly, or quickly search for public tweets by any keyword. ",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 5869
+      },
+      "vendored": false,
+      "stars": 1,
+      "forks": 0,
+      "topics": [
+        "ai-agent",
+        "chatbot",
+        "gemini-api",
+        "gradio",
+        "llm",
+        "python",
+        "social-media-automation",
+        "tweet-generator",
+        "tweet-search",
+        "twitter-api"
+      ],
+      "created_at": "2025-05-29T03:23:08Z",
+      "pushed_at": "2025-07-01T08:53:54Z",
+      "days_since_push": 424,
+      "file_count": 7,
+      "tech": [
+        "Gradio"
+      ],
+      "push_events_30d": 0
+    }
+  ],
+  "language_share": [
+    {
+      "name": "Python",
+      "bytes": 1350530,
+      "pct": 43.4
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 1128261,
+      "pct": 36.3
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 369650,
+      "pct": 11.9
+    },
+    {
+      "name": "Jupyter Notebook",
+      "bytes": 129802,
+      "pct": 4.2
+    },
+    {
+      "name": "CSS",
+      "bytes": 61258,
+      "pct": 2.0
+    },
+    {
+      "name": "Java",
+      "bytes": 31911,
+      "pct": 1.0
+    },
+    {
+      "name": "HTML",
+      "bytes": 18021,
+      "pct": 0.6
+    },
+    {
+      "name": "Dockerfile",
+      "bytes": 8337,
+      "pct": 0.3
+    },
+    {
+      "name": "Batchfile",
+      "bytes": 4795,
+      "pct": 0.2
+    },
+    {
+      "name": "PLpgSQL",
+      "bytes": 4158,
+      "pct": 0.1
+    },
+    {
+      "name": "Shell",
+      "bytes": 3457,
+      "pct": 0.1
+    },
+    {
+      "name": "PowerShell",
+      "bytes": 218,
+      "pct": 0.0
+    }
+  ],
+  "language_share_note": {
+    "basis": "bytes reported by the GitHub /languages endpoint",
+    "excluded_repos": [],
+    "reason": "repos with committed dependency directories are excluded because their byte counts measure vendored code, not authored code"
+  },
+  "tech_by_category": {
+    "AI / ML": [
+      {
+        "name": "scikit-learn",
+        "repo_count": 7,
+        "repos": [
+          "Data-Scrapping-Assignment",
+          "ET_Hack",
+          "FactLens",
+          "HLE-Benchmark-Test",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "ML_Semester_Project"
+        ]
+      },
+      {
+        "name": "NumPy",
+        "repo_count": 5,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "HLE-Benchmark-Test",
+          "Intelli-credit",
+          "ML_Semester_Project"
+        ]
+      },
+      {
+        "name": "pandas",
+        "repo_count": 5,
+        "repos": [
+          "ET_Hack",
+          "HLE-Benchmark-Test",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "ML_Semester_Project"
+        ]
+      },
+      {
+        "name": "Hugging Face",
+        "repo_count": 4,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "FAISS",
+        "repo_count": 3,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "LangChain",
+        "repo_count": 3,
+        "repos": [
+          "FactLens",
+          "Intelli-credit",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "OpenCV",
+        "repo_count": 3,
+        "repos": [
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier"
+        ]
+      },
+      {
+        "name": "PyTorch",
+        "repo_count": 3,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit"
+        ]
+      },
+      {
+        "name": "CLIP / ViT",
+        "repo_count": 1,
+        "repos": [
+          "FactLens"
+        ]
+      },
+      {
+        "name": "Groq",
+        "repo_count": 1,
+        "repos": [
+          "FactLens"
+        ]
+      },
+      {
+        "name": "LightGBM",
+        "repo_count": 1,
+        "repos": [
+          "ML_Semester_Project"
+        ]
+      },
+      {
+        "name": "OpenRouter",
+        "repo_count": 1,
+        "repos": [
+          "HLE-Benchmark-Test"
+        ]
+      },
+      {
+        "name": "Tesseract OCR",
+        "repo_count": 1,
+        "repos": [
+          "Intelli-credit"
+        ]
+      },
+      {
+        "name": "Whisper",
+        "repo_count": 1,
+        "repos": [
+          "FactLens"
+        ]
+      }
+    ],
+    "Backend": [
+      {
+        "name": "FastAPI",
+        "repo_count": 9,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "ML_Semester_Project",
+          "Magic-Pin-AI",
+          "MagicPin-challenge",
+          "Medical_chatbot",
+          "Taxi-Booking"
+        ]
+      },
+      {
+        "name": "Pydantic",
+        "repo_count": 9,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "HLE-Benchmark-Test",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "ML_Semester_Project",
+          "Magic-Pin-AI",
+          "Medical_chatbot",
+          "Taxi-Booking"
+        ]
+      },
+      {
+        "name": "Uvicorn",
+        "repo_count": 9,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "ML_Semester_Project",
+          "Magic-Pin-AI",
+          "MagicPin-challenge",
+          "Medical_chatbot",
+          "Taxi-Booking"
+        ]
+      },
+      {
+        "name": "BeautifulSoup",
+        "repo_count": 3,
+        "repos": [
+          "Data-Scrapping-Assignment",
+          "FactLens",
+          "Intelli-credit"
+        ]
+      },
+      {
+        "name": "Express",
+        "repo_count": 3,
+        "repos": [
+          "Apna-Fit",
+          "Dinesh-Sharma",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "Flask",
+        "repo_count": 2,
+        "repos": [
+          "Affordmed_assignment",
+          "Trading-bot"
+        ]
+      },
+      {
+        "name": "RQ",
+        "repo_count": 2,
+        "repos": [
+          "KYC_Face_Verifier",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Streamlit",
+        "repo_count": 2,
+        "repos": [
+          "KYC_Face_Verifier",
+          "Taxi-Booking"
+        ]
+      },
+      {
+        "name": "APScheduler",
+        "repo_count": 1,
+        "repos": [
+          "TripCaspian"
+        ]
+      },
+      {
+        "name": "Celery",
+        "repo_count": 1,
+        "repos": [
+          "ET_Hack"
+        ]
+      },
+      {
+        "name": "Gradio",
+        "repo_count": 1,
+        "repos": [
+          "tweeter-assistant"
+        ]
+      },
+      {
+        "name": "WebSockets",
+        "repo_count": 1,
+        "repos": [
+          "Trading-bot"
+        ]
+      }
+    ],
+    "Frontend": [
+      {
+        "name": "React",
+        "repo_count": 11,
+        "repos": [
+          "Apna-Fit",
+          "Dinesh-Sharma",
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Medibot-frontend-Demo",
+          "Medical_chatbot",
+          "Taxi-Booking",
+          "Trading-bot",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "Tailwind CSS",
+        "repo_count": 10,
+        "repos": [
+          "Apna-Fit",
+          "Dinesh-Sharma",
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Medibot-frontend-Demo",
+          "Medical_chatbot",
+          "Trading-bot",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "Vite",
+        "repo_count": 9,
+        "repos": [
+          "Apna-Fit",
+          "Dinesh-Sharma",
+          "ET_Hack",
+          "FactLens",
+          "KYC_Face_Verifier",
+          "Medibot-frontend-Demo",
+          "Medical_chatbot",
+          "Trading-bot",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "Framer Motion",
+        "repo_count": 3,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "Recharts",
+        "repo_count": 3,
+        "repos": [
+          "ET_Hack",
+          "Intelli-credit",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "TanStack Query",
+        "repo_count": 3,
+        "repos": [
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "GSAP",
+        "repo_count": 1,
+        "repos": [
+          "Apna-Fit"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "repo_count": 1,
+        "repos": [
+          "Intelli-credit"
+        ]
+      }
+    ],
+    "Data & Storage": [
+      {
+        "name": "PostgreSQL",
+        "repo_count": 4,
+        "repos": [
+          "ET_Hack",
+          "KYC_Face_Verifier",
+          "Medical_chatbot",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "Redis",
+        "repo_count": 4,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "KYC_Face_Verifier",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "SQLAlchemy",
+        "repo_count": 3,
+        "repos": [
+          "ET_Hack",
+          "KYC_Face_Verifier",
+          "TripCaspian"
+        ]
+      },
+      {
+        "name": "Drizzle ORM",
+        "repo_count": 1,
+        "repos": [
+          "UPSC-Tracker"
+        ]
+      }
+    ],
+    "Infrastructure": [
+      {
+        "name": "Docker",
+        "repo_count": 6,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Medical_chatbot",
+          "TripCaspian"
+        ]
+      },
+      {
+        "name": "Docker Compose",
+        "repo_count": 4,
+        "repos": [
+          "ET_Hack",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Render",
+        "repo_count": 4,
+        "repos": [
+          "FactLens",
+          "KYC_Face_Verifier",
+          "Magic-Pin-AI",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "GitHub Actions",
+        "repo_count": 3,
+        "repos": [
+          "Dinesh-Sharma",
+          "ET_Hack",
+          "KYC_Face_Verifier"
+        ]
+      },
+      {
+        "name": "Prometheus",
+        "repo_count": 3,
+        "repos": [
+          "ET_Hack",
+          "KYC_Face_Verifier",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Vercel",
+        "repo_count": 3,
+        "repos": [
+          "Dinesh-Sharma",
+          "TripCaspian",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "Nginx",
+        "repo_count": 2,
+        "repos": [
+          "FactLens",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Fly.io",
+        "repo_count": 1,
+        "repos": [
+          "KYC_Face_Verifier"
+        ]
+      },
+      {
+        "name": "GitLab CI",
+        "repo_count": 1,
+        "repos": [
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Grafana",
+        "repo_count": 1,
+        "repos": [
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Gunicorn",
+        "repo_count": 1,
+        "repos": [
+          "Trading-bot"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "repo_count": 1,
+        "repos": [
+          "Medical_chatbot"
+        ]
+      }
+    ],
+    "Testing & Tooling": [
+      {
+        "name": "unittest",
+        "repo_count": 4,
+        "repos": [
+          "HLE-Benchmark-Test",
+          "KYC_Face_Verifier",
+          "Medical_chatbot",
+          "TripCaspian"
+        ]
+      },
+      {
+        "name": "ESLint",
+        "repo_count": 2,
+        "repos": [
+          "FactLens",
+          "Trading-bot"
+        ]
+      },
+      {
+        "name": "pytest",
+        "repo_count": 2,
+        "repos": [
+          "MagicPin-challenge",
+          "TripCaspian"
+        ]
+      },
+      {
+        "name": "Bun",
+        "repo_count": 1,
+        "repos": [
+          "Dinesh-Sharma"
+        ]
+      },
+      {
+        "name": "pnpm",
+        "repo_count": 1,
+        "repos": [
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "uv",
+        "repo_count": 1,
+        "repos": [
+          "Trading-bot"
+        ]
+      }
+    ],
+    "Languages": [
+      {
+        "name": "Python",
+        "repo_count": 16,
+        "pct": 43.4
+      },
+      {
+        "name": "TypeScript",
+        "repo_count": 5,
+        "pct": 36.3
+      },
+      {
+        "name": "JavaScript",
+        "repo_count": 10,
+        "pct": 11.9
+      },
+      {
+        "name": "Jupyter Notebook",
+        "repo_count": 1,
+        "pct": 4.2
+      },
+      {
+        "name": "CSS",
+        "repo_count": 12,
+        "pct": 2.0
+      },
+      {
+        "name": "Java",
+        "repo_count": 1,
+        "pct": 1.0
+      },
+      {
+        "name": "HTML",
+        "repo_count": 11,
+        "pct": 0.6
+      }
+    ]
+  },
+  "currently_building": [
+    {
+      "repo": "Medical_chatbot",
+      "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot",
+      "homepage": null,
+      "description": "PDF-grounded RAG service with off-path ingestion workers",
+      "tech": [
+        "LangChain",
+        "FAISS",
+        "Hugging Face",
+        "FastAPI"
+      ],
+      "primary_language": "Python",
+      "status": "Active",
+      "days_since_push": 6,
+      "push_events": 7
+    },
+    {
+      "repo": "TripCaspian",
+      "url": "https://github.com/Dinesh-Sharma2004/TripCaspian",
+      "homepage": "https://trip-caspian.vercel.app",
+      "description": "Conversational commitments turned into tracked obligations",
+      "tech": [
+        "APScheduler",
+        "SQLAlchemy",
+        "Docker",
+        "Vercel"
+      ],
+      "primary_language": "Python",
+      "status": "Active",
+      "days_since_push": 17,
+      "push_events": 8
+    },
+    {
+      "repo": "FactLens",
+      "url": "https://github.com/Dinesh-Sharma2004/FactLens",
+      "homepage": "https://frontend-production-321d.up.railway.app/",
+      "description": "Streaming claim verification with cache-first retrieval",
+      "tech": [
+        "LangChain",
+        "FAISS",
+        "Groq",
+        "Hugging Face"
+      ],
+      "primary_language": "Python",
+      "status": "Active",
+      "days_since_push": 18,
+      "push_events": 2
+    }
+  ],
+  "featured": [
+    {
+      "repo": "Medical_chatbot",
+      "title": "Medical Chatbot",
+      "what": "Full-stack RAG service: upload PDFs, build a FAISS index off the request path, then ask questions against them with streamed answers.",
+      "why": "Ingestion is a separate Redis/RQ worker that rebuilds the vector index outside the API request path, so uploads never block queries. Ships with Kubernetes manifests (HPA, PDB, ingress, RWX PVCs shared between API and worker), a Prometheus/Grafana stack, and a GitLab pipeline that builds images and deploys to EKS.",
+      "tech": [
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "FAISS",
+        "Redis / RQ",
+        "PostgreSQL",
+        "React",
+        "Vite",
+        "Docker",
+        "Kubernetes",
+        "Prometheus"
+      ],
+      "detected_tech": [
+        "LangChain",
+        "FAISS",
+        "Hugging Face",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "RQ",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Docker Compose",
+        "Kubernetes",
+        "GitLab CI",
+        "Prometheus",
+        "Grafana",
+        "Nginx",
+        "Render",
+        "unittest"
+      ],
+      "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot",
+      "homepage": null,
+      "stars": 4,
+      "pushed_at": "2026-08-23T11:44:41Z",
+      "days_since_push": 6,
+      "primary_language": "Python",
+      "file_count": 155
+    },
+    {
+      "repo": "KYC_Face_Verifier",
+      "title": "KYC Verification Platform",
+      "what": "Document-verification platform: OCR extraction, face matching and job tracking behind an API gateway with Celery workers.",
+      "why": "The interesting part is the design work, not just the code: a normalised ERD with soft deletes and document versioning, a versioned async event envelope carrying trace and idempotency keys across services, and a written security plan covering upload sniffing, tenant-scoped RBAC and retention. Includes an honest architecture audit of what the repo does and does not yet have.",
+      "tech": [
+        "Python",
+        "FastAPI",
+        "Celery",
+        "Redis",
+        "PostgreSQL",
+        "SQLModel",
+        "Streamlit",
+        "React",
+        "TypeScript",
+        "Docker",
+        "Fly.io"
+      ],
+      "detected_tech": [
+        "scikit-learn",
+        "pandas",
+        "OpenCV",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "RQ",
+        "Streamlit",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "TanStack Query",
+        "PostgreSQL",
+        "Redis",
+        "SQLAlchemy",
+        "Docker",
+        "Docker Compose",
+        "GitHub Actions",
+        "Prometheus",
+        "Render",
+        "Fly.io",
+        "unittest"
+      ],
+      "url": "https://github.com/Dinesh-Sharma2004/KYC_Face_Verifier",
+      "homepage": null,
+      "stars": 0,
+      "pushed_at": "2026-07-22T08:30:53Z",
+      "days_since_push": 38,
+      "primary_language": "Python",
+      "file_count": 77
+    },
+    {
+      "repo": "FactLens",
+      "title": "ET FactLens",
+      "what": "Claim-verification workspace that streams verdicts, summarises news URLs, transcribes audio and scores image relevance.",
+      "why": "Cache-first corrective RAG: repeat checks are answered from cache before any retrieval happens, and evidence carries stable REF_00x IDs so a verdict can be traced to sources. Every external dependency has a fallback -- Redis degrades to in-memory, the hosted ViT endpoint degrades to local CLIP, a missing Groq key degrades to mock responses.",
+      "tech": [
+        "Python",
+        "FastAPI",
+        "SSE",
+        "Redis",
+        "Groq",
+        "Whisper",
+        "CLIP / ViT",
+        "SerpAPI",
+        "React",
+        "Tailwind",
+        "Docker Compose"
+      ],
+      "detected_tech": [
+        "LangChain",
+        "FAISS",
+        "Groq",
+        "Hugging Face",
+        "PyTorch",
+        "Whisper",
+        "CLIP / ViT",
+        "scikit-learn",
+        "NumPy",
+        "OpenCV",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "BeautifulSoup",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Redis",
+        "Docker",
+        "Nginx",
+        "Render",
+        "ESLint"
+      ],
+      "url": "https://github.com/Dinesh-Sharma2004/FactLens",
+      "homepage": "https://frontend-production-321d.up.railway.app/",
+      "stars": 0,
+      "pushed_at": "2026-08-11T12:44:38Z",
+      "days_since_push": 18,
+      "primary_language": "Python",
+      "file_count": 88
+    },
+    {
+      "repo": "TripCaspian",
+      "title": "BizPulse",
+      "what": "Agent that turns conversational promises (\"I'll pay by Friday\") into tracked obligations and follows up when they come due.",
+      "why": "A deterministic signal gate scores each message for action verbs, money terms and obligation phrases, and drops anything under threshold for zero tokens -- the LLM only runs when language understanding is actually needed, with a rule-based extractor as offline fallback. Commitments move through a nine-state machine, and an APScheduler job store plus an independent overdue poller means a missed alert is caught twice.",
+      "tech": [
+        "Python",
+        "Caspian SDK",
+        "Gemini",
+        "APScheduler",
+        "SQLite",
+        "pytest",
+        "Docker",
+        "Vercel"
+      ],
+      "detected_tech": [
+        "APScheduler",
+        "SQLAlchemy",
+        "Docker",
+        "Vercel",
+        "pytest",
+        "unittest"
+      ],
+      "url": "https://github.com/Dinesh-Sharma2004/TripCaspian",
+      "homepage": "https://trip-caspian.vercel.app",
+      "stars": 0,
+      "pushed_at": "2026-08-12T07:50:44Z",
+      "days_since_push": 17,
+      "primary_language": "Python",
+      "file_count": 37
+    },
+    {
+      "repo": "HLE-Benchmark-Test",
+      "title": "LLM Evaluation Harness",
+      "what": "Config-driven harness for running the same benchmark across several models and comparing the results reproducibly.",
+      "why": "Built for long runs that fail halfway: an async producer/consumer pool adapts its rate from response headers, prompts are cached by hash so a resumed run doesn't re-pay for completed work, and checkpoints let a run continue into a fresh timestamped folder. Scored comparisons use McNemar and Wilcoxon with bootstrap confidence intervals instead of raw accuracy deltas.",
+      "tech": [
+        "Python",
+        "asyncio",
+        "Pydantic",
+        "OpenRouter",
+        "matplotlib"
+      ],
+      "detected_tech": [
+        "OpenRouter",
+        "scikit-learn",
+        "NumPy",
+        "pandas",
+        "Pydantic",
+        "unittest"
+      ],
+      "url": "https://github.com/Dinesh-Sharma2004/HLE-Benchmark-Test",
+      "homepage": null,
+      "stars": 0,
+      "pushed_at": "2026-06-20T09:20:02Z",
+      "days_since_push": 70,
+      "primary_language": "Python",
+      "file_count": 40
+    },
+    {
+      "repo": "Trading-bot",
+      "title": "Binance Futures Trading Bot",
+      "what": "USDT-M futures client with a live dashboard: market, limit, stop-limit, OCO, TWAP and grid order execution.",
+      "why": "The order layer is split by strategy rather than lumped into one handler, so OCO cancellation, TWAP slicing and grid laddering each stay testable in isolation. Runs against testnet or in simulation with no credentials, and the React side renders candlesticks and a live order book off a WebSocket price feed.",
+      "tech": [
+        "Python",
+        "Flask",
+        "WebSockets",
+        "python-binance",
+        "React",
+        "Tailwind",
+        "Vite"
+      ],
+      "detected_tech": [
+        "Flask",
+        "WebSockets",
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Gunicorn",
+        "uv",
+        "ESLint"
+      ],
+      "url": "https://github.com/Dinesh-Sharma2004/Trading-bot",
+      "homepage": null,
+      "stars": 1,
+      "pushed_at": "2025-12-13T10:29:00Z",
+      "days_since_push": 259,
+      "primary_language": "Python",
+      "file_count": 41
+    }
+  ],
+  "system_map": {
+    "root": "WHAT I BUILD",
+    "sink": "DEPLOYED APPLICATIONS",
+    "branches": [
+      {
+        "name": "AI / ML SYSTEMS",
+        "leaves": [
+          "RAG pipelines",
+          "LLM agents",
+          "Eval harnesses"
+        ],
+        "evidence": [
+          "Medical_chatbot",
+          "FactLens",
+          "TripCaspian",
+          "HLE-Benchmark-Test",
+          "tweeter-assistant"
+        ]
+      },
+      {
+        "name": "BACKEND SERVICES",
+        "leaves": [
+          "FastAPI APIs",
+          "Queues & workers",
+          "State machines"
+        ],
+        "evidence": [
+          "Medical_chatbot",
+          "KYC_Face_Verifier",
+          "MagicPin-challenge",
+          "Affordmed_assignment"
+        ]
+      },
+      {
+        "name": "DATA & RETRIEVAL",
+        "leaves": [
+          "Vector search",
+          "Scrapers & ETL",
+          "Cache layers"
+        ],
+        "evidence": [
+          "Medical_chatbot",
+          "FactLens",
+          "Data-Scrapping-Assignment",
+          "ET_Hack"
+        ]
+      },
+      {
+        "name": "INFRA & DELIVERY",
+        "leaves": [
+          "Docker & K8s",
+          "CI/CD",
+          "Metrics & alerts"
+        ],
+        "evidence": [
+          "Medical_chatbot",
+          "KYC_Face_Verifier",
+          "FactLens",
+          "ET_Hack"
+        ]
+      },
+      {
+        "name": "INTERFACES",
+        "leaves": [
+          "React dashboards",
+          "Streaming UIs",
+          "Bots & CLIs"
+        ],
+        "evidence": [
+          "Trading-bot",
+          "Apna-Fit",
+          "Medical_chatbot",
+          "TripCaspian",
+          "Dinesh-Sharma"
+        ]
+      }
+    ]
+  },
+  "what_i_build": [
+    [
+      "AI / LLM SERVICES",
+      "retrieval, streaming, agents"
+    ],
+    [
+      "BACKEND SYSTEMS",
+      "APIs, workers, state machines"
+    ],
+    [
+      "DATA & RETRIEVAL",
+      "vector search, scraping, caching"
+    ],
+    [
+      "DEV TOOLING & OPS",
+      "eval harnesses, containers, CI"
+    ]
+  ],
+  "timeline": [
+    {
+      "year": "2025",
+      "entries": [
+        {
+          "date": "2025-03-19",
+          "kind": "started",
+          "repo": "Medical_chatbot",
+          "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot",
+          "weight": 2
+        },
+        {
+          "date": "2025-05-29",
+          "kind": "started",
+          "repo": "tweeter-assistant",
+          "url": "https://github.com/Dinesh-Sharma2004/tweeter-assistant",
+          "weight": 1
+        },
+        {
+          "date": "2025-09-21",
+          "kind": "started",
+          "repo": "ML_Algorithm_from_scratch",
+          "url": "https://github.com/Dinesh-Sharma2004/ML_Algorithm_from_scratch",
+          "weight": 1
+        },
+        {
+          "date": "2025-12-13",
+          "kind": "started",
+          "repo": "Trading-bot",
+          "url": "https://github.com/Dinesh-Sharma2004/Trading-bot",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "entries": [
+        {
+          "date": "2026-02-14",
+          "kind": "started",
+          "repo": "FactLens",
+          "url": "https://github.com/Dinesh-Sharma2004/FactLens",
+          "weight": 2
+        },
+        {
+          "date": "2026-06-20",
+          "kind": "started",
+          "repo": "HLE-Benchmark-Test",
+          "url": "https://github.com/Dinesh-Sharma2004/HLE-Benchmark-Test",
+          "weight": 2
+        },
+        {
+          "date": "2026-07-22",
+          "kind": "started",
+          "repo": "KYC_Face_Verifier",
+          "url": "https://github.com/Dinesh-Sharma2004/KYC_Face_Verifier",
+          "weight": 2
+        },
+        {
+          "date": "2026-07-27",
+          "kind": "started",
+          "repo": "TripCaspian",
+          "url": "https://github.com/Dinesh-Sharma2004/TripCaspian",
+          "weight": 2
+        }
+      ]
+    }
+  ],
+  "activity": {
+    "contributions": null,
+    "tracked_repos": 20,
+    "public_repos": 26,
+    "active_repos_30d": 3,
+    "languages_detected": 7,
+    "technologies_detected": 56,
+    "recent_pushes": [
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-23T11:44:41Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-23T09:28:36Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-23T08:58:39Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-23T08:49:28Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-23T06:32:41Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-22T09:28:48Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-12T17:24:22Z"
+      },
+      {
+        "repo": "TripCaspian",
+        "at": "2026-08-12T07:50:45Z"
+      },
+      {
+        "repo": "TripCaspian",
+        "at": "2026-08-12T07:49:09Z"
+      },
+      {
+        "repo": "FactLens",
+        "at": "2026-08-11T12:44:38Z"
+      },
+      {
+        "repo": "TripCaspian",
+        "at": "2026-08-09T19:30:20Z"
+      },
+      {
+        "repo": "TripCaspian",
+        "at": "2026-08-09T19:23:37Z"
+      }
+    ],
+    "event_window": {
+      "from": "2026-08-09",
+      "to": "2026-08-30",
+      "push_events": 17
+    },
+    "last_push": {
+      "repo": "Medical_chatbot",
+      "at": "2026-08-23"
+    }
+  }
+}

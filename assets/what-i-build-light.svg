@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 122" width="1000" height="122" role="img" aria-labelledby="t">
+  <title id="t">What I build</title>
+  <style>
+
+    text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif; }
+    .m { font-family: ui-monospace,'SF Mono','Cascadia Code','Roboto Mono',Menlo,Consolas,'Liberation Mono',monospace; }
+    .fg { fill: #1f2328; } .fg2 { fill: #59636e; } .fg3 { fill: #818b98; }
+    .ac { fill: #0969da; } .gr { fill: #1a7f37; } .am { fill: #9a6700; }
+    .b { font-weight: 650; }
+    .card { fill: #ffffff; stroke: #d1d9e0; stroke-width: 1; }
+    .rule { stroke: #e4e8ed; stroke-width: 1; }
+    .wire { fill: none; stroke: #d1d9e0; stroke-width: 1.25; }
+    .flow { fill: none; stroke: #0969da; stroke-width: 1.25;
+             stroke-opacity: .5; stroke-dasharray: 3 7;
+             animation: flow 1.9s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -20; } }
+    .rise { opacity: 1; animation: rise .7s cubic-bezier(.2,.7,.3,1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); }
+                       to   { opacity: 1; transform: translateY(0); } }
+    .fade { opacity: 1; animation: fade .8s ease-out both; }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    .pulse { animation: pulse 2.8s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .95; } 50% { opacity: .35; } }
+    .halo { animation: halo 2.8s ease-in-out infinite; }
+    @keyframes halo { 0% { r: 4; opacity: .55; }
+                       70%,100% { r: 11; opacity: 0; } }
+    .draw { stroke-dasharray: 1200; stroke-dashoffset: 0;
+             animation: draw 1.6s ease-out both; }
+    @keyframes draw { from { stroke-dashoffset: 1200; }
+                       to { stroke-dashoffset: 0; } }
+    .caret { animation: caret 1.05s steps(1) infinite; }
+    @keyframes caret { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .flow, .rise, .fade, .pulse, .halo, .draw, .caret, .sweep, .typer, .dot
+        { animation: none !important; }
+      .halo { opacity: 0; }
+    }
+
+    .sweep { animation: sweep 7s cubic-bezier(.4,0,.2,1) infinite; }
+    @keyframes sweep { 0% { transform: translateX(0); }
+                        60%,100% { transform: translateX(1320px); } }
+
+  </style>
+  <defs>
+    <linearGradient id="pg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f6f8fa"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0969da" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#0969da" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#0969da" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#eaeef2"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="122" rx="10" fill="url(#pg)"/>
+  <rect width="1000" height="122" rx="10" fill="url(#dots)"/>
+  <rect x=".5" y=".5" width="999" height="121" rx="9.5"
+        fill="none" stroke="#d1d9e0"/>
+  <g clip-path="inset(0 round 10px)">
+    <rect class="sweep" x="-320" y="0" width="320" height="1.5" fill="url(#sweep)"/>
+  </g>
+  <g class="rise" style="animation-delay:0.00s">
+    <rect class="card" x="20.0" y="24" width="228.0" height="74" rx="9"/>
+    <rect x="20.0" y="24" width="228.0" height="2.5" rx="1.2" fill="#0969da" fill-opacity=".85"/>
+    <circle class="pulse" cx="38.0" cy="50" r="3" fill="#0969da" style="animation-delay:0.00s"/>
+    <text class="m b" x="50.0" y="54" font-size="11.5" fill="#1f2328" letter-spacing="1.2">AI / LLM SERVICES</text>
+    <text x="38.0" y="78" font-size="10.5" fill="#818b98">retrieval, streaming, agents</text>
+  </g>
+  <g class="rise" style="animation-delay:0.07s">
+    <rect class="card" x="264.0" y="24" width="228.0" height="74" rx="9"/>
+    <rect x="264.0" y="24" width="228.0" height="2.5" rx="1.2" fill="#1a7f37" fill-opacity=".85"/>
+    <circle class="pulse" cx="282.0" cy="50" r="3" fill="#1a7f37" style="animation-delay:0.50s"/>
+    <text class="m b" x="294.0" y="54" font-size="11.5" fill="#1f2328" letter-spacing="1.2">BACKEND SYSTEMS</text>
+    <text x="282.0" y="78" font-size="10.5" fill="#818b98">APIs, workers, state machines</text>
+  </g>
+  <g class="rise" style="animation-delay:0.14s">
+    <rect class="card" x="508.0" y="24" width="228.0" height="74" rx="9"/>
+    <rect x="508.0" y="24" width="228.0" height="2.5" rx="1.2" fill="#8250df" fill-opacity=".85"/>
+    <circle class="pulse" cx="526.0" cy="50" r="3" fill="#8250df" style="animation-delay:1.00s"/>
+    <text class="m b" x="538.0" y="54" font-size="11.5" fill="#1f2328" letter-spacing="1.2">DATA &amp; RETRIEVAL</text>
+    <text x="526.0" y="78" font-size="10.5" fill="#818b98">vector search, scraping, caching</text>
+  </g>
+  <g class="rise" style="animation-delay:0.21s">
+    <rect class="card" x="752.0" y="24" width="228.0" height="74" rx="9"/>
+    <rect x="752.0" y="24" width="228.0" height="2.5" rx="1.2" fill="#9a6700" fill-opacity=".85"/>
+    <circle class="pulse" cx="770.0" cy="50" r="3" fill="#9a6700" style="animation-delay:1.50s"/>
+    <text class="m b" x="782.0" y="54" font-size="11.5" fill="#1f2328" letter-spacing="1.2">DEV TOOLING &amp; OPS</text>
+    <text x="770.0" y="78" font-size="10.5" fill="#818b98">eval harnesses, containers, CI</text>
+  </g>
+</svg>
