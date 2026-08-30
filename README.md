@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinesh-Sharma2004&show_icons=true&theme=radical&hide_rank=true&hide=issues,contribs&bg_color=0d1117&text_color=9198a1&icon_color=3fb950&title_color=58a6ff" alt="Dinesh's GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=Dinesh-Sharma2004&show_icons=true&theme=radical&hide_rank=true&hide=issues,contribs&bg_color=0d1117&text_color=9198a1&icon_color=3fb950&title_color=58a6ff" alt="Dinesh's GitHub Stats">
 </p>
 
 ---
