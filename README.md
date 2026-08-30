@@ -45,96 +45,94 @@
 </p>
 
 ---
+### Languages & Tech
 
-### 💻 Languages & Tech
-
-#### 🧠 Languages
+## Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" alt="C++"/>
 </p>
 
-#### 🤖 AI / Generative AI
+##  AI / Generative AI
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" alt="Hugging Face" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="NLP / Python" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
-  <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-111827?style=for-the-badge&logo=googlebard&logoColor=white" alt="LLM Fine-Tuning" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-</p>
-
-#### 🔗 RAG & AI Agents
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphene&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Vector%20Embeddings-7C3AED?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Vector Embeddings" />
-</p>
-
-#### ⚙️ Backend & APIs
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" alt="PyTorch"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" title="Hugging Face" alt="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/openai/000000" width="50" title="Whisper / OpenAI" alt="OpenAI"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Microservices" />
-  <img src="https://img.shields.io/badge/SSE-FF6B35?style=for-the-badge&logo=serverless&logoColor=white" alt="Server-Sent Events" />
+  <img src="https://cdn.simpleicons.org/huggingface" width="50" title="Hugging Face Transformers" alt="Hugging Face Transformers"/>
+  <img src="https://cdn.simpleicons.org/opentelemetry" width="50" title="NLP" alt="NLP"/>
+  <img src="https://cdn.simpleicons.org/llm" width="50" title="LLM Fine-tuning" alt="LLM Fine-tuning"/>
 </p>
 
-#### 🗄️ Data, MLOps & Experimentation
+## 🔗 RAG & AI Agents
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="45" alt="MLflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45" alt="Databricks" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="50" title="LangChain" alt="LangChain"/>
+  <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="50" title="LangGraph" alt="LangGraph"/>
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="50" title="FAISS" alt="FAISS"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect" />
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="ETL Pipelines" />
-  <img src="https://img.shields.io/badge/Optuna-3B82F6?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna" />
-  <img src="https://img.shields.io/badge/SHAP-F97316?style=for-the-badge&logo=python&logoColor=white" alt="SHAP" />
+  <img src="https://cdn.simpleicons.org/chainlink/375BD2" width="50" title="Vector Embeddings" alt="Vector Embeddings"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" width="50" title="LLM Applications" alt="LLM Applications"/>
 </p>
 
-#### ☁️ Cloud & Infrastructure
+## ⚙️ Backend & APIs
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" alt="Google Cloud Platform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" title="Redis" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" alt="Docker"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://cdn.simpleicons.org/celery/37814A" width="50" title="Celery" alt="Celery"/>
+  <img src="https://cdn.simpleicons.org/pydantic/E92063" width="50" title="Pydantic" alt="Pydantic"/>
+  <img src="https://cdn.simpleicons.org/serverless/FD5750" width="50" title="REST APIs / SSE" alt="REST APIs / SSE"/>
 </p>
 
-#### 🌐 Frontend
+## 📊 Data, MLOps & Experimentation
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="50" title="MLflow" alt="MLflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="50" title="Databricks" alt="Databricks"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/prefect/070E10" width="50" title="Prefect" alt="Prefect"/>
+  <img src="https://cdn.simpleicons.org/optuna/000000" width="50" title="Optuna" alt="Optuna"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="50" title="SHAP" alt="SHAP"/>
+</p>
+
+## ☁️ Cloud & Infrastructure
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" title="Google Cloud Platform" alt="Google Cloud Platform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS" alt="AWS"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" title="Supabase" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" title="Prometheus" alt="Prometheus"/>
+</p>
+
+## 🌐 Frontend
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3"/>
 </p>
 
 ---
