@@ -58,15 +58,13 @@
 
 ##  AI / Generative AI
 
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch" title="PyTorch"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="Hugging Face" title="Hugging Face"/> <img src="https://cdn.simpleicons.org/openai/412991" width="50" alt="OpenAI" title="OpenAI"/> </p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch" /> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" alt="Hugging Face" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="NLP / Python" /> </p>
 
-<p align="center"> <strong>Whisper</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>NLP</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>LLM Fine-tuning</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>Prompt Engineering</strong> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" /> <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-111827?style=for-the-badge&logo=googlebard&logoColor=white" alt="LLM Fine-Tuning" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" /> </p>
 
 ## 🔗 RAG & AI Agents
 
-<p align="center"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="50" alt="LangChain" title="LangChain"/> <img src="https://devicons.io/api/icons/langgraph/icon.svg" width="50" alt="LangGraph" title="LangGraph"/> <img src="https://cdn.jsdelivr.net/gh/facebookresearch/faiss@main/demos/billion-scale-search/README.md" width="1" alt=""/> </p>
-
-<p align="center"> <strong>FAISS</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>Vector Embeddings</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>Retrieval Systems</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>RAG Pipelines</strong> </p>
+<p align="center"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphene&logoColor=white" alt="LangGraph" /> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" /> <img src="https://img.shields.io/badge/Vector%20Embeddings-7C3AED?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Vector Embeddings" /> </p>
 
 ## ⚙️ Backend & APIs
 
@@ -76,23 +74,15 @@
 
 ## 📊 Data, MLOps & Experimentation
 
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mlflow/mlflow-original.svg" width="50" alt="MLflow" title="MLflow"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" width="50" alt="Databricks" title="Databricks"/> </p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" alt="Redis" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="45" alt="MLflow" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45" alt="Databricks" /> </p>
 
-<p align="center"> <strong>Prefect</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>ETL Pipelines</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>Optuna</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>SHAP</strong> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect" /> <img src="https://img.shields.io/badge/ETL%20Pipelines-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="ETL Pipelines" /> <img src="https://img.shields.io/badge/Optuna-3B82F6?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna" /> <img src="https://img.shields.io/badge/SHAP-F97316?style=for-the-badge&logo=python&logoColor=white" alt="SHAP" /> </p>
 
 ## ☁️ Cloud & Infrastructure
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" title="Google Cloud Platform" alt="Google Cloud Platform"/>
-</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" alt="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" alt="Google Cloud Platform" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" /> </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" title="Supabase" alt="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" title="Prometheus" alt="Prometheus"/>
-</p>
-
+<p align="center"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /> </p>
 ## 🌐 Frontend
 
 <p align="center">
