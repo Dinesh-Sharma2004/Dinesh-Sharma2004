@@ -58,30 +58,15 @@
 
 ##  AI / Generative AI
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" alt="PyTorch"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" title="Hugging Face" alt="Hugging Face"/>
-  <img src="https://cdn.simpleicons.org/openai/000000" width="50" title="Whisper / OpenAI" alt="OpenAI"/>
-</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch" title="PyTorch"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" alt="Hugging Face" title="Hugging Face"/> <img src="https://cdn.simpleicons.org/openai/412991" width="50" alt="OpenAI" title="OpenAI"/> </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/huggingface" width="50" title="Hugging Face Transformers" alt="Hugging Face Transformers"/>
-  <img src="https://cdn.simpleicons.org/opentelemetry" width="50" title="NLP" alt="NLP"/>
-  <img src="https://cdn.simpleicons.org/llm" width="50" title="LLM Fine-tuning" alt="LLM Fine-tuning"/>
-</p>
+<p align="center"> <strong>Whisper</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>NLP</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>LLM Fine-tuning</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>Prompt Engineering</strong> </p>
 
 ## 🔗 RAG & AI Agents
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="50" title="LangChain" alt="LangChain"/>
-  <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="50" title="LangGraph" alt="LangGraph"/>
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="50" title="FAISS" alt="FAISS"/>
-</p>
+<p align="center"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="50" alt="LangChain" title="LangChain"/> <img src="https://devicons.io/api/icons/langgraph/icon.svg" width="50" alt="LangGraph" title="LangGraph"/> <img src="https://cdn.jsdelivr.net/gh/facebookresearch/faiss@main/demos/billion-scale-search/README.md" width="1" alt=""/> </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/chainlink/375BD2" width="50" title="Vector Embeddings" alt="Vector Embeddings"/>
-  <img src="https://cdn.simpleicons.org/openai/412991" width="50" title="LLM Applications" alt="LLM Applications"/>
-</p>
+<p align="center"> <strong>FAISS</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>Vector Embeddings</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>Retrieval Systems</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>RAG Pipelines</strong> </p>
 
 ## ⚙️ Backend & APIs
 
@@ -91,9 +76,9 @@
 
 ## 📊 Data, MLOps & Experimentation
 
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" alt="Redis" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="45" alt="MLflow" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45" alt="Databricks" /> </p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mlflow/mlflow-original.svg" width="50" alt="MLflow" title="MLflow"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" width="50" alt="Databricks" title="Databricks"/> </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect" /> <img src="https://img.shields.io/badge/ETL%20Pipelines-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="ETL Pipelines" /> <img src="https://img.shields.io/badge/Optuna-3B82F6?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna" /> <img src="https://img.shields.io/badge/SHAP-F97316?style=for-the-badge&logo=python&logoColor=white" alt="SHAP" /> </p>
+<p align="center"> <strong>Prefect</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>ETL Pipelines</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>Optuna</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>SHAP</strong> </p>
 
 ## ☁️ Cloud & Infrastructure
 
