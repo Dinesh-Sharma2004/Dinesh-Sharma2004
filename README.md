@@ -1,6 +1,6 @@
 <!-- Absolute Raw URL image link for reliable proxy rendering -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dinesh-Sharma2004/Dinesh-Sharma2004/main/assets/sword-banner.gif" alt="Dinesh Sharma - ASCII Sword Art Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Dinesh-Sharma2004/Dinesh-Sharma2004/main/assets/sword-banner.svg" alt="Dinesh Sharma - ASCII Sword Art Banner" width="100%">
 </p>
 
 <!-- Subtitle with Typing Animation -->
