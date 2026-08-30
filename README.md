@@ -21,9 +21,9 @@
 - **[Medical_chatbot](https://github.com/Dinesh-Sharma2004/Medical_chatbot)** &mdash; PDF-grounded RAG service with off-path ingestion workers.  
   `Active` &middot; pushed 6d ago &middot; 7 recent push events
 - **[TripCaspian](https://github.com/Dinesh-Sharma2004/TripCaspian)** &mdash; Conversational commitments turned into tracked obligations.  
-  `Active` &middot; pushed 17d ago &middot; 8 recent push events &middot; [live](https://trip-caspian.vercel.app)
+  `Active` &middot; pushed 17d ago &middot; 8 recent push events &middot;)
 - **[FactLens](https://github.com/Dinesh-Sharma2004/FactLens)** &mdash; Streaming claim verification with cache-first retrieval.  
-  `Active` &middot; pushed 18d ago &middot; 2 recent push events &middot; [live](https://frontend-production-321d.up.railway.app/)
+  `Active` &middot; pushed 18d ago &middot; 2 recent push events &middot;)
 <!-- GEN:currently-building end -->
 
 ---
