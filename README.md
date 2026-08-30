@@ -36,13 +36,6 @@
 | **[FactLens](https://github.com/Dinesh-Sharma2004/FactLens)** | Cache-first corrective RAG where repeat checks are served before external retrieval. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-f55a42?style=flat-square&logo=groq&logoColor=white) |
 | **[TripCaspian](https://github.com/Dinesh-Sharma2004/TripCaspian)** | A deterministic signal gate drops low-relevance messages before running LLM token scoring. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Dinesh-Sharma2004&show_icons=true&theme=radical&hide_rank=true&hide=issues,contribs&bg_color=0d1117&text_color=9198a1&icon_color=3fb950&title_color=58a6ff" alt="Dinesh's GitHub Stats">
-</p>
 
 ---
 ### Languages & Tech
