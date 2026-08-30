@@ -74,11 +74,19 @@
 
 ## 📊 Data, MLOps & Experimentation
 
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" alt="Redis" /> <img  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mlflow/default.svg"
-       width="50" alt="MLflow" title="MLflow"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/databricks/default.svg"
-       width="50" alt="Databricks" title="Databricks"/>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" alt="Redis" /><img
+    src="https://cdn.simpleicons.org/mlflow"
+    width="50"
+    height="50"
+    alt="MLflow"
+    title="MLflow"
+  /><img
+    src="https://cdn.simpleicons.org/databricks"
+    width="50"
+    height="50"
+    alt="Databricks"
+    title="Databricks"
+  />
 
 <p align="center"> <img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect" /> <img src="https://img.shields.io/badge/ETL%20Pipelines-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="ETL Pipelines" /> <img src="https://img.shields.io/badge/Optuna-3B82F6?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna" /> <img src="https://img.shields.io/badge/SHAP-F97316?style=for-the-badge&logo=python&logoColor=white" alt="SHAP" /> </p>
 
