@@ -85,18 +85,9 @@
 
 ## ⚙️ Backend & APIs
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" title="Redis" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" alt="Docker"/>
-</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" title="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" alt="Flask" title="Flask"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" alt="Redis" title="Redis"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="Docker" title="Docker"/> </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/celery/37814A" width="50" title="Celery" alt="Celery"/>
-  <img src="https://cdn.simpleicons.org/pydantic/E92063" width="50" title="Pydantic" alt="Pydantic"/>
-  <img src="https://cdn.simpleicons.org/serverless/FD5750" width="50" title="REST APIs / SSE" alt="REST APIs / SSE"/>
-</p>
+<p align="center"> <strong>Pydantic</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>Celery</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>REST APIs</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>Microservices</strong>&nbsp;&nbsp; • &nbsp;&nbsp; <strong>SSE</strong> </p>
 
 ## 📊 Data, MLOps & Experimentation
 
