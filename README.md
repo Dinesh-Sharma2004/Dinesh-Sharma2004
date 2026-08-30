@@ -100,17 +100,9 @@
 
 ## 📊 Data, MLOps & Experimentation
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="50" title="MLflow" alt="MLflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="50" title="Databricks" alt="Databricks"/>
-</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" alt="Redis" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="45" alt="MLflow" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45" alt="Databricks" /> </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/prefect/070E10" width="50" title="Prefect" alt="Prefect"/>
-  <img src="https://cdn.simpleicons.org/optuna/000000" width="50" title="Optuna" alt="Optuna"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="50" title="SHAP" alt="SHAP"/>
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect" /> <img src="https://img.shields.io/badge/ETL%20Pipelines-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="ETL Pipelines" /> <img src="https://img.shields.io/badge/Optuna-3B82F6?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna" /> <img src="https://img.shields.io/badge/SHAP-F97316?style=for-the-badge&logo=python&logoColor=white" alt="SHAP" /> </p>
 
 ## ☁️ Cloud & Infrastructure
 
@@ -118,7 +110,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" title="Google Cloud Platform" alt="Google Cloud Platform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS" alt="AWS"/>
 </p>
 
 <p align="center">
