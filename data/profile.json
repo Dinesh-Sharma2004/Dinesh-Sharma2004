@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T11:50:17Z",
+  "generated_at": "2026-09-01T10:26:21Z",
   "user": {
     "login": "Dinesh-Sharma2004",
     "name": "Dinesh Sharma",
     "url": "https://github.com/Dinesh-Sharma2004",
     "avatar": "https://avatars.githubusercontent.com/u/153713000?v=4",
-    "public_repos": 27,
+    "public_repos": 29,
     "followers": 1,
     "created_at": "2023-12-13T07:23:53Z",
     "years_on_github": 2.7
@@ -26,6 +26,37 @@
   },
   "repos": [
     {
+      "name": "Regime-Aware-Time-Series-Forecasting-System",
+      "url": "https://github.com/Dinesh-Sharma2004/Regime-Aware-Time-Series-Forecasting-System",
+      "homepage": null,
+      "description": "Regime-aware time series forecasting using Gausian Mixture Model clustering, LightGBM regressors, online adaptation, FastAPI, and an interactive monitoring dashboard.",
+      "primary_language": "Python",
+      "languages": {
+        "Python": 29752,
+        "JavaScript": 22974,
+        "CSS": 10823,
+        "HTML": 4713
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-10-19T03:56:36Z",
+      "pushed_at": "2026-09-01T07:03:38Z",
+      "days_since_push": 0,
+      "file_count": 17,
+      "tech": [
+        "scikit-learn",
+        "LightGBM",
+        "NumPy",
+        "pandas",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic"
+      ],
+      "push_events_30d": 1
+    },
+    {
       "name": "Medical_chatbot",
       "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot",
       "homepage": null,
@@ -43,22 +74,27 @@
       "stars": 5,
       "forks": 1,
       "topics": [
+        "artificial-intelligence",
+        "docker",
+        "docker-compose",
+        "dockerfiles",
         "embedding-models",
         "faiss",
         "html-css-javascript",
         "javascript",
         "langchain-groq",
         "llm",
-        "python",
+        "python3",
         "rag-chatbot",
         "rag-pipeline",
+        "reactjs",
         "vector-database",
         "vite"
       ],
       "created_at": "2025-03-19T16:03:10Z",
-      "pushed_at": "2026-08-30T14:15:47Z",
+      "pushed_at": "2026-09-01T06:42:21Z",
       "days_since_push": 0,
-      "file_count": 159,
+      "file_count": 169,
       "tech": [
         "LangChain",
         "FAISS",
@@ -82,7 +118,7 @@
         "Render",
         "unittest"
       ],
-      "push_events_30d": 29
+      "push_events_30d": 34
     },
     {
       "name": "TripCaspian",
@@ -114,7 +150,7 @@
       ],
       "created_at": "2026-07-27T13:55:06Z",
       "pushed_at": "2026-08-12T07:50:44Z",
-      "days_since_push": 19,
+      "days_since_push": 20,
       "file_count": 37,
       "tech": [
         "APScheduler",
@@ -145,7 +181,7 @@
       "topics": [],
       "created_at": "2026-02-14T17:33:48Z",
       "pushed_at": "2026-08-11T12:44:38Z",
-      "days_since_push": 19,
+      "days_since_push": 20,
       "file_count": 88,
       "tech": [
         "LangChain",
@@ -191,7 +227,7 @@
       "topics": [],
       "created_at": "2026-07-22T16:43:58Z",
       "pushed_at": "2026-07-23T09:51:21Z",
-      "days_since_push": 39,
+      "days_since_push": 40,
       "file_count": 36,
       "tech": [
         "Express",
@@ -224,7 +260,7 @@
       "topics": [],
       "created_at": "2026-07-22T04:31:24Z",
       "pushed_at": "2026-07-22T08:30:53Z",
-      "days_since_push": 40,
+      "days_since_push": 41,
       "file_count": 77,
       "tech": [
         "scikit-learn",
@@ -267,7 +303,7 @@
       "topics": [],
       "created_at": "2026-07-02T14:33:09Z",
       "pushed_at": "2026-07-02T16:21:54Z",
-      "days_since_push": 59,
+      "days_since_push": 60,
       "file_count": 35,
       "tech": [
         "FastAPI",
@@ -293,7 +329,7 @@
       "topics": [],
       "created_at": "2026-05-24T16:58:24Z",
       "pushed_at": "2026-06-29T12:27:36Z",
-      "days_since_push": 62,
+      "days_since_push": 63,
       "file_count": 28,
       "tech": [
         "Express",
@@ -319,7 +355,7 @@
       "topics": [],
       "created_at": "2026-06-20T06:16:00Z",
       "pushed_at": "2026-06-20T09:20:02Z",
-      "days_since_push": 72,
+      "days_since_push": 73,
       "file_count": 40,
       "tech": [
         "OpenRouter",
@@ -346,7 +382,7 @@
       "topics": [],
       "created_at": "2026-05-09T05:15:42Z",
       "pushed_at": "2026-05-09T06:34:38Z",
-      "days_since_push": 114,
+      "days_since_push": 115,
       "file_count": 13,
       "tech": [
         "Flask"
@@ -374,7 +410,7 @@
       "topics": [],
       "created_at": "2026-05-07T13:52:43Z",
       "pushed_at": "2026-05-07T16:22:08Z",
-      "days_since_push": 115,
+      "days_since_push": 116,
       "file_count": 266,
       "tech": [
         "Express",
@@ -406,7 +442,7 @@
       "topics": [],
       "created_at": "2026-05-05T04:54:21Z",
       "pushed_at": "2026-05-06T03:59:07Z",
-      "days_since_push": 117,
+      "days_since_push": 118,
       "file_count": 17,
       "tech": [
         "scikit-learn",
@@ -431,44 +467,13 @@
       "topics": [],
       "created_at": "2026-05-02T13:02:41Z",
       "pushed_at": "2026-05-03T07:18:32Z",
-      "days_since_push": 120,
+      "days_since_push": 121,
       "file_count": 26,
       "tech": [
         "FastAPI",
         "Uvicorn",
         "Pydantic",
         "Render"
-      ],
-      "push_events_30d": 0
-    },
-    {
-      "name": "ML_Semester_Project",
-      "url": "https://github.com/Dinesh-Sharma2004/ML_Semester_Project",
-      "homepage": null,
-      "description": null,
-      "primary_language": "Python",
-      "languages": {
-        "Python": 29752,
-        "JavaScript": 22974,
-        "CSS": 10823,
-        "HTML": 4713
-      },
-      "vendored": false,
-      "stars": 0,
-      "forks": 0,
-      "topics": [],
-      "created_at": "2025-10-19T03:56:36Z",
-      "pushed_at": "2026-04-09T16:48:19Z",
-      "days_since_push": 143,
-      "file_count": 16,
-      "tech": [
-        "scikit-learn",
-        "LightGBM",
-        "NumPy",
-        "pandas",
-        "FastAPI",
-        "Uvicorn",
-        "Pydantic"
       ],
       "push_events_30d": 0
     },
@@ -492,7 +497,7 @@
       "topics": [],
       "created_at": "2026-03-28T19:49:50Z",
       "pushed_at": "2026-03-29T12:17:27Z",
-      "days_since_push": 154,
+      "days_since_push": 155,
       "file_count": 190,
       "tech": [
         "FAISS",
@@ -541,7 +546,7 @@
       "topics": [],
       "created_at": "2026-03-04T09:02:59Z",
       "pushed_at": "2026-03-17T08:58:43Z",
-      "days_since_push": 167,
+      "days_since_push": 168,
       "file_count": 59,
       "tech": [
         "LangChain",
@@ -584,7 +589,7 @@
       "topics": [],
       "created_at": "2025-11-16T08:03:01Z",
       "pushed_at": "2026-02-07T09:03:12Z",
-      "days_since_push": 205,
+      "days_since_push": 206,
       "file_count": 26,
       "tech": [
         "FastAPI",
@@ -593,6 +598,27 @@
         "Streamlit",
         "React"
       ],
+      "push_events_30d": 0
+    },
+    {
+      "name": "NLP",
+      "url": "https://github.com/Dinesh-Sharma2004/NLP",
+      "homepage": null,
+      "description": null,
+      "primary_language": "Jupyter Notebook",
+      "languages": {
+        "Jupyter Notebook": 502215,
+        "Python": 12980
+      },
+      "vendored": false,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-12-23T18:21:16Z",
+      "pushed_at": "2026-01-23T09:46:42Z",
+      "days_since_push": 221,
+      "file_count": 6,
+      "tech": [],
       "push_events_30d": 0
     },
     {
@@ -660,18 +686,21 @@
       "forks": 0,
       "topics": [
         "decision-trees",
+        "jupyter-notebooks",
         "kmeans-clustering",
         "knn-algorithm",
         "linear-regression",
         "logistic-regression",
         "machine-learning-algorithms",
         "naive-bayes-classifier",
+        "numpy",
+        "pandas",
         "random-forest",
         "svm-classifier"
       ],
       "created_at": "2025-09-21T06:38:56Z",
       "pushed_at": "2025-11-10T04:29:02Z",
-      "days_since_push": 294,
+      "days_since_push": 295,
       "file_count": 15,
       "tech": [],
       "push_events_30d": 0
@@ -693,7 +722,7 @@
       "topics": [],
       "created_at": "2025-10-20T05:36:16Z",
       "pushed_at": "2025-10-20T06:32:35Z",
-      "days_since_push": 315,
+      "days_since_push": 316,
       "file_count": 19,
       "tech": [
         "React",
@@ -728,7 +757,7 @@
       ],
       "created_at": "2025-05-29T03:23:08Z",
       "pushed_at": "2025-07-01T08:53:54Z",
-      "days_since_push": 426,
+      "days_since_push": 427,
       "file_count": 7,
       "tech": [
         "Gradio"
@@ -739,48 +768,48 @@
   "language_share": [
     {
       "name": "Python",
-      "bytes": 1350530,
-      "pct": 43.4
+      "bytes": 1363510,
+      "pct": 37.6
     },
     {
       "name": "TypeScript",
       "bytes": 1128261,
-      "pct": 36.3
+      "pct": 31.1
+    },
+    {
+      "name": "Jupyter Notebook",
+      "bytes": 632017,
+      "pct": 17.4
     },
     {
       "name": "JavaScript",
       "bytes": 369650,
-      "pct": 11.9
-    },
-    {
-      "name": "Jupyter Notebook",
-      "bytes": 129802,
-      "pct": 4.2
+      "pct": 10.2
     },
     {
       "name": "CSS",
       "bytes": 61258,
-      "pct": 2.0
+      "pct": 1.7
     },
     {
       "name": "Java",
       "bytes": 31911,
-      "pct": 1.0
+      "pct": 0.9
     },
     {
       "name": "HTML",
       "bytes": 18021,
-      "pct": 0.6
+      "pct": 0.5
     },
     {
       "name": "Dockerfile",
       "bytes": 8337,
-      "pct": 0.3
+      "pct": 0.2
     },
     {
       "name": "Batchfile",
       "bytes": 4795,
-      "pct": 0.2
+      "pct": 0.1
     },
     {
       "name": "PLpgSQL",
@@ -815,7 +844,7 @@
           "HLE-Benchmark-Test",
           "Intelli-credit",
           "KYC_Face_Verifier",
-          "ML_Semester_Project"
+          "Regime-Aware-Time-Series-Forecasting-System"
         ]
       },
       {
@@ -826,7 +855,7 @@
           "FactLens",
           "HLE-Benchmark-Test",
           "Intelli-credit",
-          "ML_Semester_Project"
+          "Regime-Aware-Time-Series-Forecasting-System"
         ]
       },
       {
@@ -837,7 +866,7 @@
           "HLE-Benchmark-Test",
           "Intelli-credit",
           "KYC_Face_Verifier",
-          "ML_Semester_Project"
+          "Regime-Aware-Time-Series-Forecasting-System"
         ]
       },
       {
@@ -904,7 +933,7 @@
         "name": "LightGBM",
         "repo_count": 1,
         "repos": [
-          "ML_Semester_Project"
+          "Regime-Aware-Time-Series-Forecasting-System"
         ]
       },
       {
@@ -938,10 +967,10 @@
           "FactLens",
           "Intelli-credit",
           "KYC_Face_Verifier",
-          "ML_Semester_Project",
           "Magic-Pin-AI",
           "MagicPin-challenge",
           "Medical_chatbot",
+          "Regime-Aware-Time-Series-Forecasting-System",
           "Taxi-Booking"
         ]
       },
@@ -954,9 +983,9 @@
           "HLE-Benchmark-Test",
           "Intelli-credit",
           "KYC_Face_Verifier",
-          "ML_Semester_Project",
           "Magic-Pin-AI",
           "Medical_chatbot",
+          "Regime-Aware-Time-Series-Forecasting-System",
           "Taxi-Booking"
         ]
       },
@@ -968,10 +997,10 @@
           "FactLens",
           "Intelli-credit",
           "KYC_Face_Verifier",
-          "ML_Semester_Project",
           "Magic-Pin-AI",
           "MagicPin-challenge",
           "Medical_chatbot",
+          "Regime-Aware-Time-Series-Forecasting-System",
           "Taxi-Booking"
         ]
       },
@@ -1331,38 +1360,38 @@
     "Languages": [
       {
         "name": "Python",
-        "repo_count": 16,
-        "pct": 43.4
+        "repo_count": 17,
+        "pct": 37.6
       },
       {
         "name": "TypeScript",
         "repo_count": 5,
-        "pct": 36.3
+        "pct": 31.1
+      },
+      {
+        "name": "Jupyter Notebook",
+        "repo_count": 2,
+        "pct": 17.4
       },
       {
         "name": "JavaScript",
         "repo_count": 10,
-        "pct": 11.9
-      },
-      {
-        "name": "Jupyter Notebook",
-        "repo_count": 1,
-        "pct": 4.2
+        "pct": 10.2
       },
       {
         "name": "CSS",
         "repo_count": 12,
-        "pct": 2.0
+        "pct": 1.7
       },
       {
         "name": "Java",
         "repo_count": 1,
-        "pct": 1.0
+        "pct": 0.9
       },
       {
         "name": "HTML",
         "repo_count": 11,
-        "pct": 0.6
+        "pct": 0.5
       }
     ]
   },
@@ -1381,7 +1410,23 @@
       "primary_language": "Python",
       "status": "Active",
       "days_since_push": 0,
-      "push_events": 29
+      "push_events": 34
+    },
+    {
+      "repo": "Regime-Aware-Time-Series-Forecasting-System",
+      "url": "https://github.com/Dinesh-Sharma2004/Regime-Aware-Time-Series-Forecasting-System",
+      "homepage": null,
+      "description": "Regime-aware time series forecasting using Gausian Mixture Model clustering, LightGBM regressors, online adaptation, FastAPI, and an interactive monitoring dashboard",
+      "tech": [
+        "scikit-learn",
+        "LightGBM",
+        "NumPy",
+        "pandas"
+      ],
+      "primary_language": "Python",
+      "status": "Active",
+      "days_since_push": 0,
+      "push_events": 1
     },
     {
       "repo": "TripCaspian",
@@ -1396,24 +1441,8 @@
       ],
       "primary_language": "Python",
       "status": "Active",
-      "days_since_push": 19,
+      "days_since_push": 20,
       "push_events": 8
-    },
-    {
-      "repo": "FactLens",
-      "url": "https://github.com/Dinesh-Sharma2004/FactLens",
-      "homepage": "https://frontend-production-321d.up.railway.app/",
-      "description": "Streaming claim verification with cache-first retrieval",
-      "tech": [
-        "LangChain",
-        "FAISS",
-        "Groq",
-        "Hugging Face"
-      ],
-      "primary_language": "Python",
-      "status": "Active",
-      "days_since_push": 19,
-      "push_events": 2
     }
   ],
   "featured": [
@@ -1461,10 +1490,10 @@
       "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot",
       "homepage": null,
       "stars": 5,
-      "pushed_at": "2026-08-30T14:15:47Z",
+      "pushed_at": "2026-09-01T06:42:21Z",
       "days_since_push": 0,
       "primary_language": "Python",
-      "file_count": 159
+      "file_count": 169
     },
     {
       "repo": "KYC_Face_Verifier",
@@ -1512,7 +1541,7 @@
       "homepage": null,
       "stars": 0,
       "pushed_at": "2026-07-22T08:30:53Z",
-      "days_since_push": 40,
+      "days_since_push": 41,
       "primary_language": "Python",
       "file_count": 77
     },
@@ -1563,7 +1592,7 @@
       "homepage": "https://frontend-production-321d.up.railway.app/",
       "stars": 0,
       "pushed_at": "2026-08-11T12:44:38Z",
-      "days_since_push": 19,
+      "days_since_push": 20,
       "primary_language": "Python",
       "file_count": 88
     },
@@ -1594,7 +1623,7 @@
       "homepage": "https://trip-caspian.vercel.app",
       "stars": 0,
       "pushed_at": "2026-08-12T07:50:44Z",
-      "days_since_push": 19,
+      "days_since_push": 20,
       "primary_language": "Python",
       "file_count": 37
     },
@@ -1622,7 +1651,7 @@
       "homepage": null,
       "stars": 0,
       "pushed_at": "2026-06-20T09:20:02Z",
-      "days_since_push": 72,
+      "days_since_push": 73,
       "primary_language": "Python",
       "file_count": 40
     },
@@ -1825,14 +1854,13 @@
   ],
   "activity": {
     "contributions": {
-      "total": 356,
-      "commits": 326,
+      "total": 379,
+      "commits": 347,
       "pull_requests": 6,
       "issues": 0,
-      "repositories_created": 24,
+      "repositories_created": 26,
       "weeks": [
         [
-          0,
           0,
           0,
           0,
@@ -1977,10 +2005,28 @@
         [
           0,
           0,
+          2,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
           0,
           0,
           0,
           0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
           0
         ],
         [
@@ -1998,25 +2044,7 @@
           0,
           0,
           0,
-          0,
-          0
-        ],
-        [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
+          3,
           0
         ],
         [
@@ -2300,17 +2328,42 @@
         ],
         [
           62,
-          0
+          5,
+          6
         ]
       ],
       "window_days": 365
     },
-    "tracked_repos": 20,
-    "public_repos": 27,
-    "active_repos_30d": 3,
+    "tracked_repos": 21,
+    "public_repos": 29,
+    "active_repos_30d": 4,
     "languages_detected": 7,
     "technologies_detected": 56,
     "recent_pushes": [
+      {
+        "repo": "Regime-Aware-Time-Series-Forecasting-System",
+        "at": "2026-09-01T07:01:24Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-09-01T06:41:03Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-31T18:07:12Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-31T16:02:17Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-31T12:32:47Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-31T12:19:30Z"
+      },
       {
         "repo": "Medical_chatbot",
         "at": "2026-08-30T13:59:34Z"
@@ -2334,40 +2387,16 @@
       {
         "repo": "Medical_chatbot",
         "at": "2026-08-30T13:41:24Z"
-      },
-      {
-        "repo": "Medical_chatbot",
-        "at": "2026-08-30T13:38:22Z"
-      },
-      {
-        "repo": "Medical_chatbot",
-        "at": "2026-08-30T13:34:13Z"
-      },
-      {
-        "repo": "Medical_chatbot",
-        "at": "2026-08-30T13:26:38Z"
-      },
-      {
-        "repo": "Medical_chatbot",
-        "at": "2026-08-30T14:00:17Z"
-      },
-      {
-        "repo": "Medical_chatbot",
-        "at": "2026-08-30T13:44:47Z"
-      },
-      {
-        "repo": "Medical_chatbot",
-        "at": "2026-08-30T13:28:30Z"
       }
     ],
     "event_window": {
       "from": "2026-08-09",
-      "to": "2026-08-30",
-      "push_events": 39
+      "to": "2026-09-01",
+      "push_events": 45
     },
     "last_push": {
       "repo": "Medical_chatbot",
-      "at": "2026-08-30"
+      "at": "2026-09-01"
     }
   }
 }

@@ -82,13 +82,13 @@
   <rect class="caret" x="708" y="117" width="7" height="14" fill="#58a6ff" style="animation-delay:2.6s"/>
   <line class="rule" x1="41" y1="156" x2="732" y2="156"/>
   <rect class="rise" style="animation-delay:0.20s" x="41.0" y="172.0" width="158.0" height="17" rx="4" fill="none" stroke="#232b36"/>
-  <text class="m fg2" x="48.0" y="184.0" font-size="10">356 contributions / 365d</text>
+  <text class="m fg2" x="48.0" y="184.0" font-size="10">379 contributions / 365d</text>
   <rect class="rise" style="animation-delay:0.27s" x="207.0" y="172.0" width="104.0" height="17" rx="4" fill="none" stroke="#232b36"/>
-  <text class="m fg2" x="214.0" y="184.0" font-size="10">20 repositories</text>
+  <text class="m fg2" x="214.0" y="184.0" font-size="10">21 repositories</text>
   <rect class="rise" style="animation-delay:0.34s" x="319.0" y="172.0" width="158.0" height="17" rx="4" fill="none" stroke="#232b36"/>
   <text class="m fg2" x="326.0" y="184.0" font-size="10">56 technologies detected</text>
   <rect class="rise" style="animation-delay:0.41s" x="485.0" y="172.0" width="104.0" height="17" rx="4" fill="none" stroke="#232b36"/>
-  <text class="m fg2" x="492.0" y="184.0" font-size="10">3 active in 30d</text>
+  <text class="m fg2" x="492.0" y="184.0" font-size="10">4 active in 30d</text>
   <text class="m fg3" x="41" y="216" font-size="10">GitHub: github.com/Dinesh-Sharma2004 / Portfolio: personal-portfolio-puce-chi-17.vercel.app</text>
   <g class="fade" style="animation-delay:.5s">
     <text class="m fg3" x="978" y="68" font-size="9.5" text-anchor="end" letter-spacing="1.6">REQUEST PATH</text>
@@ -108,6 +108,8 @@
   </g>
   <g class="fade" style="animation-delay:.7s">
     <text class="m fg3" x="978" y="176" font-size="9" text-anchor="end" letter-spacing="1.4">RECENT PUSH DAYS</text>
-    <rect x="966.0" y="184.0" width="12" height="32.0" rx="2" fill="#58a6ff" fill-opacity="0.85"/>
+    <rect x="932.0" y="184.0" width="12" height="32.0" rx="2" fill="#58a6ff" fill-opacity="0.85"/>
+    <rect x="949.0" y="192.7" width="12" height="23.3" rx="2" fill="#58a6ff" fill-opacity="0.67"/>
+    <rect x="966.0" y="201.3" width="12" height="14.7" rx="2" fill="#58a6ff" fill-opacity="0.48"/>
   </g>
 </svg>
