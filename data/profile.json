@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:26:21Z",
+  "generated_at": "2026-09-02T09:53:53Z",
   "user": {
     "login": "Dinesh-Sharma2004",
     "name": "Dinesh Sharma",
@@ -43,7 +43,7 @@
       "topics": [],
       "created_at": "2025-10-19T03:56:36Z",
       "pushed_at": "2026-09-01T07:03:38Z",
-      "days_since_push": 0,
+      "days_since_push": 1,
       "file_count": 17,
       "tech": [
         "scikit-learn",
@@ -54,7 +54,7 @@
         "Uvicorn",
         "Pydantic"
       ],
-      "push_events_30d": 1
+      "push_events_30d": 4
     },
     {
       "name": "Medical_chatbot",
@@ -93,7 +93,7 @@
       ],
       "created_at": "2025-03-19T16:03:10Z",
       "pushed_at": "2026-09-01T06:42:21Z",
-      "days_since_push": 0,
+      "days_since_push": 1,
       "file_count": 169,
       "tech": [
         "LangChain",
@@ -118,7 +118,7 @@
         "Render",
         "unittest"
       ],
-      "push_events_30d": 34
+      "push_events_30d": 35
     },
     {
       "name": "TripCaspian",
@@ -150,7 +150,7 @@
       ],
       "created_at": "2026-07-27T13:55:06Z",
       "pushed_at": "2026-08-12T07:50:44Z",
-      "days_since_push": 20,
+      "days_since_push": 21,
       "file_count": 37,
       "tech": [
         "APScheduler",
@@ -181,7 +181,7 @@
       "topics": [],
       "created_at": "2026-02-14T17:33:48Z",
       "pushed_at": "2026-08-11T12:44:38Z",
-      "days_since_push": 20,
+      "days_since_push": 21,
       "file_count": 88,
       "tech": [
         "LangChain",
@@ -227,7 +227,7 @@
       "topics": [],
       "created_at": "2026-07-22T16:43:58Z",
       "pushed_at": "2026-07-23T09:51:21Z",
-      "days_since_push": 40,
+      "days_since_push": 41,
       "file_count": 36,
       "tech": [
         "Express",
@@ -260,7 +260,7 @@
       "topics": [],
       "created_at": "2026-07-22T04:31:24Z",
       "pushed_at": "2026-07-22T08:30:53Z",
-      "days_since_push": 41,
+      "days_since_push": 42,
       "file_count": 77,
       "tech": [
         "scikit-learn",
@@ -303,7 +303,7 @@
       "topics": [],
       "created_at": "2026-07-02T14:33:09Z",
       "pushed_at": "2026-07-02T16:21:54Z",
-      "days_since_push": 60,
+      "days_since_push": 61,
       "file_count": 35,
       "tech": [
         "FastAPI",
@@ -329,7 +329,7 @@
       "topics": [],
       "created_at": "2026-05-24T16:58:24Z",
       "pushed_at": "2026-06-29T12:27:36Z",
-      "days_since_push": 63,
+      "days_since_push": 64,
       "file_count": 28,
       "tech": [
         "Express",
@@ -355,7 +355,7 @@
       "topics": [],
       "created_at": "2026-06-20T06:16:00Z",
       "pushed_at": "2026-06-20T09:20:02Z",
-      "days_since_push": 73,
+      "days_since_push": 74,
       "file_count": 40,
       "tech": [
         "OpenRouter",
@@ -382,7 +382,7 @@
       "topics": [],
       "created_at": "2026-05-09T05:15:42Z",
       "pushed_at": "2026-05-09T06:34:38Z",
-      "days_since_push": 115,
+      "days_since_push": 116,
       "file_count": 13,
       "tech": [
         "Flask"
@@ -410,7 +410,7 @@
       "topics": [],
       "created_at": "2026-05-07T13:52:43Z",
       "pushed_at": "2026-05-07T16:22:08Z",
-      "days_since_push": 116,
+      "days_since_push": 117,
       "file_count": 266,
       "tech": [
         "Express",
@@ -442,7 +442,7 @@
       "topics": [],
       "created_at": "2026-05-05T04:54:21Z",
       "pushed_at": "2026-05-06T03:59:07Z",
-      "days_since_push": 118,
+      "days_since_push": 119,
       "file_count": 17,
       "tech": [
         "scikit-learn",
@@ -467,7 +467,7 @@
       "topics": [],
       "created_at": "2026-05-02T13:02:41Z",
       "pushed_at": "2026-05-03T07:18:32Z",
-      "days_since_push": 121,
+      "days_since_push": 122,
       "file_count": 26,
       "tech": [
         "FastAPI",
@@ -497,7 +497,7 @@
       "topics": [],
       "created_at": "2026-03-28T19:49:50Z",
       "pushed_at": "2026-03-29T12:17:27Z",
-      "days_since_push": 155,
+      "days_since_push": 156,
       "file_count": 190,
       "tech": [
         "FAISS",
@@ -546,7 +546,7 @@
       "topics": [],
       "created_at": "2026-03-04T09:02:59Z",
       "pushed_at": "2026-03-17T08:58:43Z",
-      "days_since_push": 168,
+      "days_since_push": 169,
       "file_count": 59,
       "tech": [
         "LangChain",
@@ -589,7 +589,7 @@
       "topics": [],
       "created_at": "2025-11-16T08:03:01Z",
       "pushed_at": "2026-02-07T09:03:12Z",
-      "days_since_push": 206,
+      "days_since_push": 207,
       "file_count": 26,
       "tech": [
         "FastAPI",
@@ -616,7 +616,7 @@
       "topics": [],
       "created_at": "2025-12-23T18:21:16Z",
       "pushed_at": "2026-01-23T09:46:42Z",
-      "days_since_push": 221,
+      "days_since_push": 222,
       "file_count": 6,
       "tech": [],
       "push_events_30d": 0
@@ -657,7 +657,7 @@
       ],
       "created_at": "2025-12-13T10:27:12Z",
       "pushed_at": "2025-12-13T10:29:00Z",
-      "days_since_push": 261,
+      "days_since_push": 262,
       "file_count": 41,
       "tech": [
         "Flask",
@@ -700,7 +700,7 @@
       ],
       "created_at": "2025-09-21T06:38:56Z",
       "pushed_at": "2025-11-10T04:29:02Z",
-      "days_since_push": 295,
+      "days_since_push": 296,
       "file_count": 15,
       "tech": [],
       "push_events_30d": 0
@@ -722,7 +722,7 @@
       "topics": [],
       "created_at": "2025-10-20T05:36:16Z",
       "pushed_at": "2025-10-20T06:32:35Z",
-      "days_since_push": 316,
+      "days_since_push": 317,
       "file_count": 19,
       "tech": [
         "React",
@@ -757,7 +757,7 @@
       ],
       "created_at": "2025-05-29T03:23:08Z",
       "pushed_at": "2025-07-01T08:53:54Z",
-      "days_since_push": 427,
+      "days_since_push": 428,
       "file_count": 7,
       "tech": [
         "Gradio"
@@ -1409,8 +1409,8 @@
       ],
       "primary_language": "Python",
       "status": "Active",
-      "days_since_push": 0,
-      "push_events": 34
+      "days_since_push": 1,
+      "push_events": 35
     },
     {
       "repo": "Regime-Aware-Time-Series-Forecasting-System",
@@ -1425,8 +1425,8 @@
       ],
       "primary_language": "Python",
       "status": "Active",
-      "days_since_push": 0,
-      "push_events": 1
+      "days_since_push": 1,
+      "push_events": 4
     },
     {
       "repo": "TripCaspian",
@@ -1441,7 +1441,7 @@
       ],
       "primary_language": "Python",
       "status": "Active",
-      "days_since_push": 20,
+      "days_since_push": 21,
       "push_events": 8
     }
   ],
@@ -1491,7 +1491,7 @@
       "homepage": null,
       "stars": 5,
       "pushed_at": "2026-09-01T06:42:21Z",
-      "days_since_push": 0,
+      "days_since_push": 1,
       "primary_language": "Python",
       "file_count": 169
     },
@@ -1541,7 +1541,7 @@
       "homepage": null,
       "stars": 0,
       "pushed_at": "2026-07-22T08:30:53Z",
-      "days_since_push": 41,
+      "days_since_push": 42,
       "primary_language": "Python",
       "file_count": 77
     },
@@ -1592,7 +1592,7 @@
       "homepage": "https://frontend-production-321d.up.railway.app/",
       "stars": 0,
       "pushed_at": "2026-08-11T12:44:38Z",
-      "days_since_push": 20,
+      "days_since_push": 21,
       "primary_language": "Python",
       "file_count": 88
     },
@@ -1623,7 +1623,7 @@
       "homepage": "https://trip-caspian.vercel.app",
       "stars": 0,
       "pushed_at": "2026-08-12T07:50:44Z",
-      "days_since_push": 20,
+      "days_since_push": 21,
       "primary_language": "Python",
       "file_count": 37
     },
@@ -1651,7 +1651,7 @@
       "homepage": null,
       "stars": 0,
       "pushed_at": "2026-06-20T09:20:02Z",
-      "days_since_push": 73,
+      "days_since_push": 74,
       "primary_language": "Python",
       "file_count": 40
     },
@@ -1683,7 +1683,7 @@
       "homepage": null,
       "stars": 1,
       "pushed_at": "2025-12-13T10:29:00Z",
-      "days_since_push": 261,
+      "days_since_push": 262,
       "primary_language": "Python",
       "file_count": 41
     }
@@ -1861,7 +1861,6 @@
       "repositories_created": 26,
       "weeks": [
         [
-          0,
           0,
           0,
           0,
@@ -2329,7 +2328,8 @@
         [
           62,
           5,
-          6
+          6,
+          0
         ]
       ],
       "window_days": 365
@@ -2340,6 +2340,22 @@
     "languages_detected": 7,
     "technologies_detected": 56,
     "recent_pushes": [
+      {
+        "repo": "Regime-Aware-Time-Series-Forecasting-System",
+        "at": "2026-09-01T07:03:38Z"
+      },
+      {
+        "repo": "Regime-Aware-Time-Series-Forecasting-System",
+        "at": "2026-09-01T07:03:15Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-09-01T06:42:22Z"
+      },
+      {
+        "repo": "Regime-Aware-Time-Series-Forecasting-System",
+        "at": "2026-09-01T07:02:32Z"
+      },
       {
         "repo": "Regime-Aware-Time-Series-Forecasting-System",
         "at": "2026-09-01T07:01:24Z"
@@ -2371,28 +2387,12 @@
       {
         "repo": "Medical_chatbot",
         "at": "2026-08-30T13:51:37Z"
-      },
-      {
-        "repo": "Medical_chatbot",
-        "at": "2026-08-30T13:36:10Z"
-      },
-      {
-        "repo": "Medical_chatbot",
-        "at": "2026-08-30T14:06:03Z"
-      },
-      {
-        "repo": "Medical_chatbot",
-        "at": "2026-08-30T13:43:21Z"
-      },
-      {
-        "repo": "Medical_chatbot",
-        "at": "2026-08-30T13:41:24Z"
       }
     ],
     "event_window": {
       "from": "2026-08-09",
-      "to": "2026-09-01",
-      "push_events": 45
+      "to": "2025-12-23",
+      "push_events": 49
     },
     "last_push": {
       "repo": "Medical_chatbot",

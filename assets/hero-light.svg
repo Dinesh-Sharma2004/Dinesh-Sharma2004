@@ -108,8 +108,8 @@
   </g>
   <g class="fade" style="animation-delay:.7s">
     <text class="m fg3" x="978" y="176" font-size="9" text-anchor="end" letter-spacing="1.4">RECENT PUSH DAYS</text>
-    <rect x="932.0" y="184.0" width="12" height="32.0" rx="2" fill="#0969da" fill-opacity="0.85"/>
+    <rect x="932.0" y="201.3" width="12" height="14.7" rx="2" fill="#0969da" fill-opacity="0.48"/>
     <rect x="949.0" y="192.7" width="12" height="23.3" rx="2" fill="#0969da" fill-opacity="0.67"/>
-    <rect x="966.0" y="201.3" width="12" height="14.7" rx="2" fill="#0969da" fill-opacity="0.48"/>
+    <rect x="966.0" y="184.0" width="12" height="32.0" rx="2" fill="#0969da" fill-opacity="0.85"/>
   </g>
 </svg>
