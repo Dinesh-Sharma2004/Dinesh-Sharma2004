@@ -5,7 +5,7 @@
 
 <!-- Subtitle with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=40&lines=Data+Scientist+%7C+AI+Engineer;Extracting+Data+Insights+that+infers;Building+RAG+services+that+ship;Python+%C2%B7+React+%C2%B7+NumPy+%C2%B7+Pandas+%C2%B7+scikit-learn%2FCSS" alt="Typing Subtitle">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=40&lines=Data+Scientist+%7C+AI+Engineer;Extracting+Data+Insights+that+infers;Building+RAG+services+that+ship;Python+%C2%B7+React+%C2%B7+NumPy+%C2%B7+Pandas+%C2%B7+Matplotlib+%C2%B7+scikit-learn" alt="Typing Subtitle">
 </p>
 
 ---
