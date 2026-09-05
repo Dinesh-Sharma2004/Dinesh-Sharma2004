@@ -71,7 +71,7 @@
     <circle class="halo" cx="42.0" cy="80" r="4" fill="#0969da" style="animation-delay:0.0s"/>
     <circle class="pulse" cx="42.0" cy="80" r="3.2" fill="#0969da" style="animation-delay:0.0s"/>
     <text class="m b" x="54.0" y="84" font-size="9.5" fill="#0969da" letter-spacing="1.5">EXPLORING</text>
-    <text class="m fg3" x="315.3" y="84" font-size="9.5" text-anchor="end">today</text>
+    <text class="m fg3" x="315.3" y="84" font-size="9.5" text-anchor="end">1d ago</text>
     <text class="b" x="40.0" y="112" font-size="16" fill="#1f2328">Dinesh-Sharma</text>
     <text x="40.0" y="134" font-size="10.5" fill="#59636e">Personal portfolio site with serverless API</text>
     <text x="40.0" y="149" font-size="10.5" fill="#59636e">routes</text>
@@ -88,7 +88,7 @@
     <circle class="halo" cx="367.3333333333333" cy="80" r="4" fill="#1a7f37" style="animation-delay:0.35s"/>
     <circle class="pulse" cx="367.3333333333333" cy="80" r="3.2" fill="#1a7f37" style="animation-delay:0.35s"/>
     <text class="m b" x="379.3" y="84" font-size="9.5" fill="#1a7f37" letter-spacing="1.5">ACTIVE</text>
-    <text class="m fg3" x="640.7" y="84" font-size="9.5" text-anchor="end">3d ago</text>
+    <text class="m fg3" x="640.7" y="84" font-size="9.5" text-anchor="end">4d ago</text>
     <text class="b" x="365.3" y="112" font-size="16" fill="#1f2328">Medical_chatbot</text>
     <text x="365.3" y="134" font-size="10.5" fill="#59636e">PDF-grounded RAG service with off-path ingestion</text>
     <text x="365.3" y="149" font-size="10.5" fill="#59636e">workers</text>
@@ -105,7 +105,7 @@
     <circle class="halo" cx="692.6666666666666" cy="80" r="4" fill="#1a7f37" style="animation-delay:0.7s"/>
     <circle class="pulse" cx="692.6666666666666" cy="80" r="3.2" fill="#1a7f37" style="animation-delay:0.7s"/>
     <text class="m b" x="704.7" y="84" font-size="9.5" fill="#1a7f37" letter-spacing="1.5">ACTIVE</text>
-    <text class="m fg3" x="966.0" y="84" font-size="9.5" text-anchor="end">3d ago</text>
+    <text class="m fg3" x="966.0" y="84" font-size="9.5" text-anchor="end">4d ago</text>
     <text class="b" x="690.7" y="112" font-size="16" fill="#1f2328">Regime-Aware-Time-Serie…</text>
     <text x="690.7" y="134" font-size="10.5" fill="#59636e">Regime-aware time series forecasting using</text>
     <text x="690.7" y="149" font-size="10.5" fill="#59636e">Gausian Mixture Model clustering, LightGBM</text>
