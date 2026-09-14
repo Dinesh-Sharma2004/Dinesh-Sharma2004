@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T10:36:31Z",
+  "generated_at": "2026-09-14T10:57:55Z",
   "user": {
     "login": "Dinesh-Sharma2004",
     "name": "Dinesh Sharma",
@@ -26,26 +26,38 @@
   },
   "repos": [
     {
-      "name": "Customer-Support-Agent",
-      "url": "https://github.com/Dinesh-Sharma2004/Customer-Support-Agent",
+      "name": "Customer-support-agent",
+      "url": "https://github.com/Dinesh-Sharma2004/Customer-support-agent",
       "homepage": null,
-      "description": null,
+      "description": "A production-grade, fail-closed Customer Support RAG Agent utilizing TF-IDF, FAISS, and policy-driven safety routing to classify, retrieve, and resolve noisy customer interactions.",
       "primary_language": "Python",
       "languages": {
-        "Python": 32920
+        "Python": 52037
       },
       "vendored": false,
       "stars": 0,
       "forks": 0,
       "topics": [],
-      "created_at": "2026-09-10T13:51:00Z",
-      "pushed_at": "2026-09-10T14:08:12Z",
-      "days_since_push": 2,
-      "file_count": 16,
+      "created_at": "2026-09-14T05:36:14Z",
+      "pushed_at": "2026-09-14T10:21:34Z",
+      "days_since_push": 0,
+      "file_count": 57,
       "tech": [
+        "FAISS",
+        "Hugging Face",
+        "PyTorch",
+        "scikit-learn",
+        "NumPy",
+        "pandas",
+        "FastAPI",
+        "Uvicorn",
+        "Pydantic",
+        "WebSockets",
+        "Streamlit",
+        "pytest",
         "unittest"
       ],
-      "push_events_30d": 1
+      "push_events_30d": 0
     },
     {
       "name": "Dinesh-Sharma",
@@ -64,7 +76,7 @@
       "topics": [],
       "created_at": "2026-07-22T16:43:58Z",
       "pushed_at": "2026-09-03T19:45:24Z",
-      "days_since_push": 9,
+      "days_since_push": 10,
       "file_count": 32,
       "tech": [
         "React",
@@ -92,7 +104,7 @@
       "topics": [],
       "created_at": "2025-10-19T03:56:36Z",
       "pushed_at": "2026-09-01T07:03:38Z",
-      "days_since_push": 12,
+      "days_since_push": 13,
       "file_count": 17,
       "tech": [
         "scikit-learn",
@@ -142,7 +154,7 @@
       ],
       "created_at": "2025-03-19T16:03:10Z",
       "pushed_at": "2026-09-01T06:42:21Z",
-      "days_since_push": 12,
+      "days_since_push": 13,
       "file_count": 169,
       "tech": [
         "LangChain",
@@ -167,7 +179,7 @@
         "Render",
         "unittest"
       ],
-      "push_events_30d": 34
+      "push_events_30d": 33
     },
     {
       "name": "TripCaspian",
@@ -199,7 +211,7 @@
       ],
       "created_at": "2026-07-27T13:55:06Z",
       "pushed_at": "2026-08-12T07:50:44Z",
-      "days_since_push": 32,
+      "days_since_push": 33,
       "file_count": 37,
       "tech": [
         "APScheduler",
@@ -230,7 +242,7 @@
       "topics": [],
       "created_at": "2026-02-14T17:33:48Z",
       "pushed_at": "2026-08-11T12:44:38Z",
-      "days_since_push": 32,
+      "days_since_push": 33,
       "file_count": 88,
       "tech": [
         "LangChain",
@@ -279,7 +291,7 @@
       "topics": [],
       "created_at": "2026-07-22T04:31:24Z",
       "pushed_at": "2026-07-22T08:30:53Z",
-      "days_since_push": 53,
+      "days_since_push": 54,
       "file_count": 77,
       "tech": [
         "scikit-learn",
@@ -322,7 +334,7 @@
       "topics": [],
       "created_at": "2026-07-02T14:33:09Z",
       "pushed_at": "2026-07-02T16:21:54Z",
-      "days_since_push": 72,
+      "days_since_push": 73,
       "file_count": 35,
       "tech": [
         "FastAPI",
@@ -348,7 +360,7 @@
       "topics": [],
       "created_at": "2026-05-24T16:58:24Z",
       "pushed_at": "2026-06-29T12:27:36Z",
-      "days_since_push": 75,
+      "days_since_push": 76,
       "file_count": 28,
       "tech": [
         "Express",
@@ -374,7 +386,7 @@
       "topics": [],
       "created_at": "2026-06-20T06:16:00Z",
       "pushed_at": "2026-06-20T09:20:02Z",
-      "days_since_push": 85,
+      "days_since_push": 86,
       "file_count": 40,
       "tech": [
         "OpenRouter",
@@ -401,7 +413,7 @@
       "topics": [],
       "created_at": "2026-05-09T05:15:42Z",
       "pushed_at": "2026-05-09T06:34:38Z",
-      "days_since_push": 127,
+      "days_since_push": 128,
       "file_count": 13,
       "tech": [
         "Flask"
@@ -429,7 +441,7 @@
       "topics": [],
       "created_at": "2026-05-07T13:52:43Z",
       "pushed_at": "2026-05-07T16:22:08Z",
-      "days_since_push": 128,
+      "days_since_push": 129,
       "file_count": 266,
       "tech": [
         "Express",
@@ -461,7 +473,7 @@
       "topics": [],
       "created_at": "2026-05-05T04:54:21Z",
       "pushed_at": "2026-05-06T03:59:07Z",
-      "days_since_push": 130,
+      "days_since_push": 131,
       "file_count": 17,
       "tech": [
         "scikit-learn",
@@ -486,7 +498,7 @@
       "topics": [],
       "created_at": "2026-05-02T13:02:41Z",
       "pushed_at": "2026-05-03T07:18:32Z",
-      "days_since_push": 133,
+      "days_since_push": 134,
       "file_count": 26,
       "tech": [
         "FastAPI",
@@ -516,7 +528,7 @@
       "topics": [],
       "created_at": "2026-03-28T19:49:50Z",
       "pushed_at": "2026-03-29T12:17:27Z",
-      "days_since_push": 167,
+      "days_since_push": 168,
       "file_count": 190,
       "tech": [
         "FAISS",
@@ -565,7 +577,7 @@
       "topics": [],
       "created_at": "2026-03-04T09:02:59Z",
       "pushed_at": "2026-03-17T08:58:43Z",
-      "days_since_push": 180,
+      "days_since_push": 181,
       "file_count": 59,
       "tech": [
         "LangChain",
@@ -608,7 +620,7 @@
       "topics": [],
       "created_at": "2025-11-16T08:03:01Z",
       "pushed_at": "2026-02-07T09:03:12Z",
-      "days_since_push": 218,
+      "days_since_push": 219,
       "file_count": 26,
       "tech": [
         "FastAPI",
@@ -635,7 +647,7 @@
       "topics": [],
       "created_at": "2025-12-23T18:21:16Z",
       "pushed_at": "2026-01-23T09:46:42Z",
-      "days_since_push": 233,
+      "days_since_push": 234,
       "file_count": 6,
       "tech": [],
       "push_events_30d": 0
@@ -676,7 +688,7 @@
       ],
       "created_at": "2025-12-13T10:27:12Z",
       "pushed_at": "2025-12-13T10:29:00Z",
-      "days_since_push": 274,
+      "days_since_push": 275,
       "file_count": 41,
       "tech": [
         "Flask",
@@ -719,7 +731,7 @@
       ],
       "created_at": "2025-09-21T06:38:56Z",
       "pushed_at": "2025-11-10T04:29:02Z",
-      "days_since_push": 307,
+      "days_since_push": 308,
       "file_count": 15,
       "tech": [],
       "push_events_30d": 0
@@ -741,7 +753,7 @@
       "topics": [],
       "created_at": "2025-10-20T05:36:16Z",
       "pushed_at": "2025-10-20T06:32:35Z",
-      "days_since_push": 328,
+      "days_since_push": 329,
       "file_count": 19,
       "tech": [
         "React",
@@ -776,7 +788,7 @@
       ],
       "created_at": "2025-05-29T03:23:08Z",
       "pushed_at": "2025-07-01T08:53:54Z",
-      "days_since_push": 439,
+      "days_since_push": 440,
       "file_count": 7,
       "tech": [
         "Gradio"
@@ -787,18 +799,18 @@
   "language_share": [
     {
       "name": "Python",
-      "bytes": 1396430,
-      "pct": 39.4
+      "bytes": 1415547,
+      "pct": 39.7
     },
     {
       "name": "TypeScript",
       "bytes": 1019105,
-      "pct": 28.7
+      "pct": 28.6
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 632017,
-      "pct": 17.8
+      "pct": 17.7
     },
     {
       "name": "JavaScript",
@@ -852,15 +864,276 @@
     "reason": "repos with committed dependency directories are excluded because their byte counts measure vendored code, not authored code"
   },
   "tech_by_category": {
+    "AI / ML": [
+      {
+        "name": "scikit-learn",
+        "repo_count": 8,
+        "repos": [
+          "Customer-support-agent",
+          "Data-Scrapping-Assignment",
+          "ET_Hack",
+          "FactLens",
+          "HLE-Benchmark-Test",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Regime-Aware-Time-Series-Forecasting-System"
+        ]
+      },
+      {
+        "name": "NumPy",
+        "repo_count": 6,
+        "repos": [
+          "Customer-support-agent",
+          "ET_Hack",
+          "FactLens",
+          "HLE-Benchmark-Test",
+          "Intelli-credit",
+          "Regime-Aware-Time-Series-Forecasting-System"
+        ]
+      },
+      {
+        "name": "pandas",
+        "repo_count": 6,
+        "repos": [
+          "Customer-support-agent",
+          "ET_Hack",
+          "HLE-Benchmark-Test",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Regime-Aware-Time-Series-Forecasting-System"
+        ]
+      },
+      {
+        "name": "Hugging Face",
+        "repo_count": 5,
+        "repos": [
+          "Customer-support-agent",
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "FAISS",
+        "repo_count": 4,
+        "repos": [
+          "Customer-support-agent",
+          "ET_Hack",
+          "FactLens",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "PyTorch",
+        "repo_count": 4,
+        "repos": [
+          "Customer-support-agent",
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit"
+        ]
+      },
+      {
+        "name": "LangChain",
+        "repo_count": 3,
+        "repos": [
+          "FactLens",
+          "Intelli-credit",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "OpenCV",
+        "repo_count": 3,
+        "repos": [
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier"
+        ]
+      },
+      {
+        "name": "CLIP / ViT",
+        "repo_count": 1,
+        "repos": [
+          "FactLens"
+        ]
+      },
+      {
+        "name": "Groq",
+        "repo_count": 1,
+        "repos": [
+          "FactLens"
+        ]
+      },
+      {
+        "name": "LightGBM",
+        "repo_count": 1,
+        "repos": [
+          "Regime-Aware-Time-Series-Forecasting-System"
+        ]
+      },
+      {
+        "name": "OpenRouter",
+        "repo_count": 1,
+        "repos": [
+          "HLE-Benchmark-Test"
+        ]
+      },
+      {
+        "name": "Tesseract OCR",
+        "repo_count": 1,
+        "repos": [
+          "Intelli-credit"
+        ]
+      },
+      {
+        "name": "Whisper",
+        "repo_count": 1,
+        "repos": [
+          "FactLens"
+        ]
+      }
+    ],
+    "Backend": [
+      {
+        "name": "FastAPI",
+        "repo_count": 10,
+        "repos": [
+          "Customer-support-agent",
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Magic-Pin-AI",
+          "MagicPin-challenge",
+          "Medical_chatbot",
+          "Regime-Aware-Time-Series-Forecasting-System",
+          "Taxi-Booking"
+        ]
+      },
+      {
+        "name": "Pydantic",
+        "repo_count": 10,
+        "repos": [
+          "Customer-support-agent",
+          "ET_Hack",
+          "FactLens",
+          "HLE-Benchmark-Test",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Magic-Pin-AI",
+          "Medical_chatbot",
+          "Regime-Aware-Time-Series-Forecasting-System",
+          "Taxi-Booking"
+        ]
+      },
+      {
+        "name": "Uvicorn",
+        "repo_count": 10,
+        "repos": [
+          "Customer-support-agent",
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Magic-Pin-AI",
+          "MagicPin-challenge",
+          "Medical_chatbot",
+          "Regime-Aware-Time-Series-Forecasting-System",
+          "Taxi-Booking"
+        ]
+      },
+      {
+        "name": "BeautifulSoup",
+        "repo_count": 3,
+        "repos": [
+          "Data-Scrapping-Assignment",
+          "FactLens",
+          "Intelli-credit"
+        ]
+      },
+      {
+        "name": "Streamlit",
+        "repo_count": 3,
+        "repos": [
+          "Customer-support-agent",
+          "KYC_Face_Verifier",
+          "Taxi-Booking"
+        ]
+      },
+      {
+        "name": "Express",
+        "repo_count": 2,
+        "repos": [
+          "Apna-Fit",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "Flask",
+        "repo_count": 2,
+        "repos": [
+          "Affordmed_assignment",
+          "Trading-bot"
+        ]
+      },
+      {
+        "name": "RQ",
+        "repo_count": 2,
+        "repos": [
+          "KYC_Face_Verifier",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "WebSockets",
+        "repo_count": 2,
+        "repos": [
+          "Customer-support-agent",
+          "Trading-bot"
+        ]
+      },
+      {
+        "name": "APScheduler",
+        "repo_count": 1,
+        "repos": [
+          "TripCaspian"
+        ]
+      },
+      {
+        "name": "Celery",
+        "repo_count": 1,
+        "repos": [
+          "ET_Hack"
+        ]
+      },
+      {
+        "name": "Gradio",
+        "repo_count": 1,
+        "repos": [
+          "tweeter-assistant"
+        ]
+      }
+    ],
     "Testing & Tooling": [
       {
         "name": "unittest",
         "repo_count": 5,
         "repos": [
-          "Customer-Support-Agent",
+          "Customer-support-agent",
           "HLE-Benchmark-Test",
           "KYC_Face_Verifier",
           "Medical_chatbot",
+          "TripCaspian"
+        ]
+      },
+      {
+        "name": "pytest",
+        "repo_count": 3,
+        "repos": [
+          "Customer-support-agent",
+          "MagicPin-challenge",
           "TripCaspian"
         ]
       },
@@ -870,14 +1143,6 @@
         "repos": [
           "FactLens",
           "Trading-bot"
-        ]
-      },
-      {
-        "name": "pytest",
-        "repo_count": 2,
-        "repos": [
-          "MagicPin-challenge",
-          "TripCaspian"
         ]
       },
       {
@@ -984,247 +1249,6 @@
         "repo_count": 1,
         "repos": [
           "Intelli-credit"
-        ]
-      }
-    ],
-    "AI / ML": [
-      {
-        "name": "scikit-learn",
-        "repo_count": 7,
-        "repos": [
-          "Data-Scrapping-Assignment",
-          "ET_Hack",
-          "FactLens",
-          "HLE-Benchmark-Test",
-          "Intelli-credit",
-          "KYC_Face_Verifier",
-          "Regime-Aware-Time-Series-Forecasting-System"
-        ]
-      },
-      {
-        "name": "NumPy",
-        "repo_count": 5,
-        "repos": [
-          "ET_Hack",
-          "FactLens",
-          "HLE-Benchmark-Test",
-          "Intelli-credit",
-          "Regime-Aware-Time-Series-Forecasting-System"
-        ]
-      },
-      {
-        "name": "pandas",
-        "repo_count": 5,
-        "repos": [
-          "ET_Hack",
-          "HLE-Benchmark-Test",
-          "Intelli-credit",
-          "KYC_Face_Verifier",
-          "Regime-Aware-Time-Series-Forecasting-System"
-        ]
-      },
-      {
-        "name": "Hugging Face",
-        "repo_count": 4,
-        "repos": [
-          "ET_Hack",
-          "FactLens",
-          "Intelli-credit",
-          "Medical_chatbot"
-        ]
-      },
-      {
-        "name": "FAISS",
-        "repo_count": 3,
-        "repos": [
-          "ET_Hack",
-          "FactLens",
-          "Medical_chatbot"
-        ]
-      },
-      {
-        "name": "LangChain",
-        "repo_count": 3,
-        "repos": [
-          "FactLens",
-          "Intelli-credit",
-          "Medical_chatbot"
-        ]
-      },
-      {
-        "name": "OpenCV",
-        "repo_count": 3,
-        "repos": [
-          "FactLens",
-          "Intelli-credit",
-          "KYC_Face_Verifier"
-        ]
-      },
-      {
-        "name": "PyTorch",
-        "repo_count": 3,
-        "repos": [
-          "ET_Hack",
-          "FactLens",
-          "Intelli-credit"
-        ]
-      },
-      {
-        "name": "CLIP / ViT",
-        "repo_count": 1,
-        "repos": [
-          "FactLens"
-        ]
-      },
-      {
-        "name": "Groq",
-        "repo_count": 1,
-        "repos": [
-          "FactLens"
-        ]
-      },
-      {
-        "name": "LightGBM",
-        "repo_count": 1,
-        "repos": [
-          "Regime-Aware-Time-Series-Forecasting-System"
-        ]
-      },
-      {
-        "name": "OpenRouter",
-        "repo_count": 1,
-        "repos": [
-          "HLE-Benchmark-Test"
-        ]
-      },
-      {
-        "name": "Tesseract OCR",
-        "repo_count": 1,
-        "repos": [
-          "Intelli-credit"
-        ]
-      },
-      {
-        "name": "Whisper",
-        "repo_count": 1,
-        "repos": [
-          "FactLens"
-        ]
-      }
-    ],
-    "Backend": [
-      {
-        "name": "FastAPI",
-        "repo_count": 9,
-        "repos": [
-          "ET_Hack",
-          "FactLens",
-          "Intelli-credit",
-          "KYC_Face_Verifier",
-          "Magic-Pin-AI",
-          "MagicPin-challenge",
-          "Medical_chatbot",
-          "Regime-Aware-Time-Series-Forecasting-System",
-          "Taxi-Booking"
-        ]
-      },
-      {
-        "name": "Pydantic",
-        "repo_count": 9,
-        "repos": [
-          "ET_Hack",
-          "FactLens",
-          "HLE-Benchmark-Test",
-          "Intelli-credit",
-          "KYC_Face_Verifier",
-          "Magic-Pin-AI",
-          "Medical_chatbot",
-          "Regime-Aware-Time-Series-Forecasting-System",
-          "Taxi-Booking"
-        ]
-      },
-      {
-        "name": "Uvicorn",
-        "repo_count": 9,
-        "repos": [
-          "ET_Hack",
-          "FactLens",
-          "Intelli-credit",
-          "KYC_Face_Verifier",
-          "Magic-Pin-AI",
-          "MagicPin-challenge",
-          "Medical_chatbot",
-          "Regime-Aware-Time-Series-Forecasting-System",
-          "Taxi-Booking"
-        ]
-      },
-      {
-        "name": "BeautifulSoup",
-        "repo_count": 3,
-        "repos": [
-          "Data-Scrapping-Assignment",
-          "FactLens",
-          "Intelli-credit"
-        ]
-      },
-      {
-        "name": "Express",
-        "repo_count": 2,
-        "repos": [
-          "Apna-Fit",
-          "UPSC-Tracker"
-        ]
-      },
-      {
-        "name": "Flask",
-        "repo_count": 2,
-        "repos": [
-          "Affordmed_assignment",
-          "Trading-bot"
-        ]
-      },
-      {
-        "name": "RQ",
-        "repo_count": 2,
-        "repos": [
-          "KYC_Face_Verifier",
-          "Medical_chatbot"
-        ]
-      },
-      {
-        "name": "Streamlit",
-        "repo_count": 2,
-        "repos": [
-          "KYC_Face_Verifier",
-          "Taxi-Booking"
-        ]
-      },
-      {
-        "name": "APScheduler",
-        "repo_count": 1,
-        "repos": [
-          "TripCaspian"
-        ]
-      },
-      {
-        "name": "Celery",
-        "repo_count": 1,
-        "repos": [
-          "ET_Hack"
-        ]
-      },
-      {
-        "name": "Gradio",
-        "repo_count": 1,
-        "repos": [
-          "tweeter-assistant"
-        ]
-      },
-      {
-        "name": "WebSockets",
-        "repo_count": 1,
-        "repos": [
-          "Trading-bot"
         ]
       }
     ],
@@ -1372,17 +1396,17 @@
       {
         "name": "Python",
         "repo_count": 18,
-        "pct": 39.4
+        "pct": 39.7
       },
       {
         "name": "TypeScript",
         "repo_count": 5,
-        "pct": 28.7
+        "pct": 28.6
       },
       {
         "name": "Jupyter Notebook",
         "repo_count": 2,
-        "pct": 17.8
+        "pct": 17.7
       },
       {
         "name": "JavaScript",
@@ -1408,6 +1432,22 @@
   },
   "currently_building": [
     {
+      "repo": "Customer-support-agent",
+      "url": "https://github.com/Dinesh-Sharma2004/Customer-support-agent",
+      "homepage": null,
+      "description": "A production-grade, fail-closed Customer Support RAG Agent utilizing TF-IDF, FAISS, and policy-driven safety routing to classify, retrieve, and resolve noisy customer interactions",
+      "tech": [
+        "FAISS",
+        "Hugging Face",
+        "PyTorch",
+        "scikit-learn"
+      ],
+      "primary_language": "Python",
+      "status": "Exploring",
+      "days_since_push": 0,
+      "push_events": 0
+    },
+    {
       "repo": "Dinesh-Sharma",
       "url": "https://github.com/Dinesh-Sharma2004/Dinesh-Sharma",
       "homepage": "https://personal-portfolio-puce-chi-17.vercel.app",
@@ -1420,7 +1460,7 @@
       ],
       "primary_language": "TypeScript",
       "status": "Active",
-      "days_since_push": 9,
+      "days_since_push": 10,
       "push_events": 3
     },
     {
@@ -1436,24 +1476,8 @@
       ],
       "primary_language": "Python",
       "status": "Active",
-      "days_since_push": 12,
-      "push_events": 34
-    },
-    {
-      "repo": "Regime-Aware-Time-Series-Forecasting-System",
-      "url": "https://github.com/Dinesh-Sharma2004/Regime-Aware-Time-Series-Forecasting-System",
-      "homepage": null,
-      "description": "Regime-aware time series forecasting using Gausian Mixture Model clustering, LightGBM regressors, online adaptation, FastAPI, and an interactive monitoring dashboard",
-      "tech": [
-        "scikit-learn",
-        "LightGBM",
-        "NumPy",
-        "pandas"
-      ],
-      "primary_language": "Python",
-      "status": "Active",
-      "days_since_push": 12,
-      "push_events": 4
+      "days_since_push": 13,
+      "push_events": 33
     }
   ],
   "featured": [
@@ -1502,7 +1526,7 @@
       "homepage": null,
       "stars": 5,
       "pushed_at": "2026-09-01T06:42:21Z",
-      "days_since_push": 12,
+      "days_since_push": 13,
       "primary_language": "Python",
       "file_count": 169
     },
@@ -1552,7 +1576,7 @@
       "homepage": null,
       "stars": 0,
       "pushed_at": "2026-07-22T08:30:53Z",
-      "days_since_push": 53,
+      "days_since_push": 54,
       "primary_language": "Python",
       "file_count": 77
     },
@@ -1603,7 +1627,7 @@
       "homepage": "https://frontend-production-321d.up.railway.app/",
       "stars": 0,
       "pushed_at": "2026-08-11T12:44:38Z",
-      "days_since_push": 32,
+      "days_since_push": 33,
       "primary_language": "Python",
       "file_count": 88
     },
@@ -1634,7 +1658,7 @@
       "homepage": "https://trip-caspian.vercel.app",
       "stars": 0,
       "pushed_at": "2026-08-12T07:50:44Z",
-      "days_since_push": 32,
+      "days_since_push": 33,
       "primary_language": "Python",
       "file_count": 37
     },
@@ -1662,7 +1686,7 @@
       "homepage": null,
       "stars": 0,
       "pushed_at": "2026-06-20T09:20:02Z",
-      "days_since_push": 85,
+      "days_since_push": 86,
       "primary_language": "Python",
       "file_count": 40
     },
@@ -1694,7 +1718,7 @@
       "homepage": null,
       "stars": 1,
       "pushed_at": "2025-12-13T10:29:00Z",
-      "days_since_push": 274,
+      "days_since_push": 275,
       "primary_language": "Python",
       "file_count": 41
     }
@@ -1865,14 +1889,13 @@
   ],
   "activity": {
     "contributions": {
-      "total": 393,
-      "commits": 360,
+      "total": 394,
+      "commits": 361,
       "pull_requests": 6,
       "issues": 0,
       "repositories_created": 27,
       "weeks": [
         [
-          0,
           0,
           0,
           0,
@@ -2335,12 +2358,13 @@
           0,
           0,
           0,
-          3,
+          0,
           0,
           0
         ],
         [
-          0
+          0,
+          4
         ]
       ],
       "window_days": 365
@@ -2351,10 +2375,6 @@
     "languages_detected": 7,
     "technologies_detected": 55,
     "recent_pushes": [
-      {
-        "repo": "Customer-Support-Agent",
-        "at": "2026-09-10T14:08:13Z"
-      },
       {
         "repo": "Dinesh-Sharma",
         "at": "2026-09-03T19:41:03Z"
@@ -2398,16 +2418,20 @@
       {
         "repo": "Medical_chatbot",
         "at": "2026-08-31T16:02:17Z"
+      },
+      {
+        "repo": "Medical_chatbot",
+        "at": "2026-08-31T12:32:47Z"
       }
     ],
     "event_window": {
       "from": "2026-08-22",
-      "to": "2026-09-10",
-      "push_events": 42
+      "to": "2026-09-14",
+      "push_events": 40
     },
     "last_push": {
-      "repo": "Customer-Support-Agent",
-      "at": "2026-09-10"
+      "repo": "Customer-support-agent",
+      "at": "2026-09-14"
     }
   }
 }
