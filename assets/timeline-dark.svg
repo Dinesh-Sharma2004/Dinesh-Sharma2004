@@ -152,7 +152,7 @@
     <circle class="halo" cx="132" cy="371" r="4" fill="#3fb950" style="animation-delay:0s"/>
     <circle class="pulse" cx="132" cy="371" r="3.2" fill="#3fb950" style="animation-delay:0s"/>
     <path class="wire" d="M140 371 H154"/>
-    <text class="m" x="162" y="375" font-size="11.5" fill="#e6edf3">Lead_Enrichment_Agent</text>
-    <text x="325" y="375" font-size="10.5" fill="#9198a1">Production-ready Autonomous Lead Enrichment Agent in Python using…</text>
+    <text class="m" x="162" y="375" font-size="11.5" fill="#e6edf3">Gov_Connect</text>
+    <text x="256" y="375" font-size="10.5" fill="#9198a1">GovConnect is an AI-powered municipal complaint-routing &amp; civic g…</text>
   </g>
 </svg>
