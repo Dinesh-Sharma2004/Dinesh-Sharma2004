@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:05:37Z",
+  "generated_at": "2026-10-17T09:39:41Z",
   "user": {
     "login": "Dinesh-Sharma2004",
     "name": "Dinesh Sharma",
@@ -32,26 +32,27 @@
       "description": null,
       "primary_language": "TypeScript",
       "languages": {
-        "TypeScript": 113724,
-        "CSS": 10316,
-        "JavaScript": 212
+        "TypeScript": 114802,
+        "CSS": 66573,
+        "JavaScript": 3316,
+        "HTML": 1804
       },
       "vendored": false,
       "stars": 0,
       "forks": 0,
       "topics": [],
       "created_at": "2026-07-22T16:43:58Z",
-      "pushed_at": "2026-10-15T20:56:01Z",
+      "pushed_at": "2026-10-16T17:38:21Z",
       "days_since_push": 0,
-      "file_count": 51,
+      "file_count": 77,
       "tech": [
         "React",
-        "Next.js",
-        "Tailwind CSS",
-        "Framer Motion",
+        "Vite",
+        "GSAP",
+        "Vercel",
         "ESLint"
       ],
-      "push_events_30d": 0
+      "push_events_30d": 1
     },
     {
       "name": "Medibuddy-weathering-assisstant",
@@ -72,7 +73,7 @@
       ],
       "created_at": "2026-10-02T20:55:47Z",
       "pushed_at": "2026-10-05T10:19:00Z",
-      "days_since_push": 10,
+      "days_since_push": 11,
       "file_count": 90,
       "tech": [
         "LangChain",
@@ -113,7 +114,7 @@
       ],
       "created_at": "2026-09-20T16:02:24Z",
       "pushed_at": "2026-09-20T18:30:34Z",
-      "days_since_push": 25,
+      "days_since_push": 26,
       "file_count": 49,
       "tech": [
         "React",
@@ -148,7 +149,7 @@
       ],
       "created_at": "2026-09-15T14:03:12Z",
       "pushed_at": "2026-09-15T23:34:17Z",
-      "days_since_push": 30,
+      "days_since_push": 31,
       "file_count": 29,
       "tech": [
         "Groq",
@@ -159,7 +160,7 @@
         "pytest",
         "unittest"
       ],
-      "push_events_30d": 6
+      "push_events_30d": 4
     },
     {
       "name": "Customer-support-agent",
@@ -176,7 +177,7 @@
       "topics": [],
       "created_at": "2026-09-14T05:36:14Z",
       "pushed_at": "2026-09-14T13:26:09Z",
-      "days_since_push": 31,
+      "days_since_push": 32,
       "file_count": 60,
       "tech": [
         "FAISS",
@@ -214,7 +215,7 @@
       "topics": [],
       "created_at": "2025-10-19T03:56:36Z",
       "pushed_at": "2026-09-01T07:03:38Z",
-      "days_since_push": 45,
+      "days_since_push": 46,
       "file_count": 17,
       "tech": [
         "scikit-learn",
@@ -264,7 +265,7 @@
       ],
       "created_at": "2025-03-19T16:03:10Z",
       "pushed_at": "2026-09-01T06:42:21Z",
-      "days_since_push": 45,
+      "days_since_push": 46,
       "file_count": 169,
       "tech": [
         "LangChain",
@@ -321,7 +322,7 @@
       ],
       "created_at": "2026-07-27T13:55:06Z",
       "pushed_at": "2026-08-12T07:50:44Z",
-      "days_since_push": 65,
+      "days_since_push": 66,
       "file_count": 37,
       "tech": [
         "APScheduler",
@@ -352,7 +353,7 @@
       "topics": [],
       "created_at": "2026-02-14T17:33:48Z",
       "pushed_at": "2026-08-11T12:44:38Z",
-      "days_since_push": 65,
+      "days_since_push": 66,
       "file_count": 88,
       "tech": [
         "LangChain",
@@ -401,7 +402,7 @@
       "topics": [],
       "created_at": "2026-07-22T04:31:24Z",
       "pushed_at": "2026-07-22T08:30:53Z",
-      "days_since_push": 86,
+      "days_since_push": 87,
       "file_count": 77,
       "tech": [
         "scikit-learn",
@@ -444,7 +445,7 @@
       "topics": [],
       "created_at": "2026-07-02T14:33:09Z",
       "pushed_at": "2026-07-02T16:21:54Z",
-      "days_since_push": 105,
+      "days_since_push": 106,
       "file_count": 35,
       "tech": [
         "FastAPI",
@@ -470,7 +471,7 @@
       "topics": [],
       "created_at": "2026-05-24T16:58:24Z",
       "pushed_at": "2026-06-29T12:27:36Z",
-      "days_since_push": 108,
+      "days_since_push": 109,
       "file_count": 28,
       "tech": [
         "Express",
@@ -496,7 +497,7 @@
       "topics": [],
       "created_at": "2026-06-20T06:16:00Z",
       "pushed_at": "2026-06-20T09:20:02Z",
-      "days_since_push": 118,
+      "days_since_push": 119,
       "file_count": 40,
       "tech": [
         "OpenRouter",
@@ -523,7 +524,7 @@
       "topics": [],
       "created_at": "2026-05-09T05:15:42Z",
       "pushed_at": "2026-05-09T06:34:38Z",
-      "days_since_push": 160,
+      "days_since_push": 161,
       "file_count": 13,
       "tech": [
         "Flask"
@@ -551,7 +552,7 @@
       "topics": [],
       "created_at": "2026-05-07T13:52:43Z",
       "pushed_at": "2026-05-07T16:22:08Z",
-      "days_since_push": 161,
+      "days_since_push": 162,
       "file_count": 266,
       "tech": [
         "Express",
@@ -583,7 +584,7 @@
       "topics": [],
       "created_at": "2026-05-05T04:54:21Z",
       "pushed_at": "2026-05-06T03:59:07Z",
-      "days_since_push": 163,
+      "days_since_push": 164,
       "file_count": 17,
       "tech": [
         "scikit-learn",
@@ -608,7 +609,7 @@
       "topics": [],
       "created_at": "2026-05-02T13:02:41Z",
       "pushed_at": "2026-05-03T07:18:32Z",
-      "days_since_push": 166,
+      "days_since_push": 167,
       "file_count": 26,
       "tech": [
         "FastAPI",
@@ -638,7 +639,7 @@
       "topics": [],
       "created_at": "2026-03-28T19:49:50Z",
       "pushed_at": "2026-03-29T12:17:27Z",
-      "days_since_push": 200,
+      "days_since_push": 201,
       "file_count": 190,
       "tech": [
         "FAISS",
@@ -687,7 +688,7 @@
       "topics": [],
       "created_at": "2026-03-04T09:02:59Z",
       "pushed_at": "2026-03-17T08:58:43Z",
-      "days_since_push": 213,
+      "days_since_push": 214,
       "file_count": 59,
       "tech": [
         "LangChain",
@@ -730,7 +731,7 @@
       "topics": [],
       "created_at": "2025-11-16T08:03:01Z",
       "pushed_at": "2026-02-07T09:03:12Z",
-      "days_since_push": 251,
+      "days_since_push": 252,
       "file_count": 26,
       "tech": [
         "FastAPI",
@@ -798,7 +799,7 @@
       ],
       "created_at": "2025-12-13T10:27:12Z",
       "pushed_at": "2025-12-13T10:29:00Z",
-      "days_since_push": 306,
+      "days_since_push": 307,
       "file_count": 41,
       "tech": [
         "Flask",
@@ -841,7 +842,7 @@
       ],
       "created_at": "2025-09-21T06:38:56Z",
       "pushed_at": "2025-11-10T04:29:02Z",
-      "days_since_push": 340,
+      "days_since_push": 341,
       "file_count": 15,
       "tech": [],
       "push_events_30d": 0
@@ -863,7 +864,7 @@
       "topics": [],
       "created_at": "2025-10-20T05:36:16Z",
       "pushed_at": "2025-10-20T06:32:35Z",
-      "days_since_push": 361,
+      "days_since_push": 362,
       "file_count": 19,
       "tech": [
         "React",
@@ -898,7 +899,7 @@
       ],
       "created_at": "2025-05-29T03:23:08Z",
       "pushed_at": "2025-07-01T08:53:54Z",
-      "days_since_push": 472,
+      "days_since_push": 473,
       "file_count": 7,
       "tech": [
         "Gradio"
@@ -910,27 +911,27 @@
     {
       "name": "Python",
       "bytes": 1824457,
-      "pct": 44.3
+      "pct": 43.6
     },
     {
       "name": "TypeScript",
-      "bytes": 1066020,
-      "pct": 25.9
+      "bytes": 1067098,
+      "pct": 25.5
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 632017,
-      "pct": 15.3
+      "pct": 15.1
     },
     {
       "name": "JavaScript",
-      "bytes": 453497,
-      "pct": 11.0
+      "bytes": 456601,
+      "pct": 10.9
     },
     {
       "name": "CSS",
-      "bytes": 74525,
-      "pct": 1.8
+      "bytes": 130782,
+      "pct": 3.1
     },
     {
       "name": "Java",
@@ -939,8 +940,8 @@
     },
     {
       "name": "HTML",
-      "bytes": 17988,
-      "pct": 0.4
+      "bytes": 19792,
+      "pct": 0.5
     },
     {
       "name": "Dockerfile",
@@ -994,26 +995,11 @@
         ]
       },
       {
-        "name": "Tailwind CSS",
+        "name": "Vite",
         "repo_count": 10,
         "repos": [
           "Apna-Fit",
           "Dinesh-Sharma",
-          "ET_Hack",
-          "FactLens",
-          "Intelli-credit",
-          "KYC_Face_Verifier",
-          "Medibot-frontend-Demo",
-          "Medical_chatbot",
-          "Trading-bot",
-          "UPSC-Tracker"
-        ]
-      },
-      {
-        "name": "Vite",
-        "repo_count": 9,
-        "repos": [
-          "Apna-Fit",
           "ET_Hack",
           "FactLens",
           "Gov_Connect",
@@ -1025,10 +1011,24 @@
         ]
       },
       {
-        "name": "Framer Motion",
-        "repo_count": 4,
+        "name": "Tailwind CSS",
+        "repo_count": 9,
         "repos": [
-          "Dinesh-Sharma",
+          "Apna-Fit",
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Medibot-frontend-Demo",
+          "Medical_chatbot",
+          "Trading-bot",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "Framer Motion",
+        "repo_count": 3,
+        "repos": [
           "ET_Hack",
           "FactLens",
           "UPSC-Tracker"
@@ -1053,18 +1053,121 @@
         ]
       },
       {
-        "name": "Next.js",
+        "name": "GSAP",
         "repo_count": 2,
         "repos": [
-          "Dinesh-Sharma",
-          "Intelli-credit"
+          "Apna-Fit",
+          "Dinesh-Sharma"
         ]
       },
       {
-        "name": "GSAP",
+        "name": "Next.js",
         "repo_count": 1,
         "repos": [
-          "Apna-Fit"
+          "Intelli-credit"
+        ]
+      }
+    ],
+    "Infrastructure": [
+      {
+        "name": "Docker",
+        "repo_count": 6,
+        "repos": [
+          "ET_Hack",
+          "FactLens",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Medical_chatbot",
+          "TripCaspian"
+        ]
+      },
+      {
+        "name": "Docker Compose",
+        "repo_count": 4,
+        "repos": [
+          "ET_Hack",
+          "Intelli-credit",
+          "KYC_Face_Verifier",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Render",
+        "repo_count": 4,
+        "repos": [
+          "FactLens",
+          "KYC_Face_Verifier",
+          "Magic-Pin-AI",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Prometheus",
+        "repo_count": 3,
+        "repos": [
+          "ET_Hack",
+          "KYC_Face_Verifier",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Vercel",
+        "repo_count": 3,
+        "repos": [
+          "Dinesh-Sharma",
+          "TripCaspian",
+          "UPSC-Tracker"
+        ]
+      },
+      {
+        "name": "GitHub Actions",
+        "repo_count": 2,
+        "repos": [
+          "ET_Hack",
+          "KYC_Face_Verifier"
+        ]
+      },
+      {
+        "name": "Nginx",
+        "repo_count": 2,
+        "repos": [
+          "FactLens",
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Fly.io",
+        "repo_count": 1,
+        "repos": [
+          "KYC_Face_Verifier"
+        ]
+      },
+      {
+        "name": "GitLab CI",
+        "repo_count": 1,
+        "repos": [
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Grafana",
+        "repo_count": 1,
+        "repos": [
+          "Medical_chatbot"
+        ]
+      },
+      {
+        "name": "Gunicorn",
+        "repo_count": 1,
+        "repos": [
+          "Trading-bot"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "repo_count": 1,
+        "repos": [
+          "Medical_chatbot"
         ]
       }
     ],
@@ -1417,138 +1520,41 @@
         ]
       }
     ],
-    "Infrastructure": [
-      {
-        "name": "Docker",
-        "repo_count": 6,
-        "repos": [
-          "ET_Hack",
-          "FactLens",
-          "Intelli-credit",
-          "KYC_Face_Verifier",
-          "Medical_chatbot",
-          "TripCaspian"
-        ]
-      },
-      {
-        "name": "Docker Compose",
-        "repo_count": 4,
-        "repos": [
-          "ET_Hack",
-          "Intelli-credit",
-          "KYC_Face_Verifier",
-          "Medical_chatbot"
-        ]
-      },
-      {
-        "name": "Render",
-        "repo_count": 4,
-        "repos": [
-          "FactLens",
-          "KYC_Face_Verifier",
-          "Magic-Pin-AI",
-          "Medical_chatbot"
-        ]
-      },
-      {
-        "name": "Prometheus",
-        "repo_count": 3,
-        "repos": [
-          "ET_Hack",
-          "KYC_Face_Verifier",
-          "Medical_chatbot"
-        ]
-      },
-      {
-        "name": "GitHub Actions",
-        "repo_count": 2,
-        "repos": [
-          "ET_Hack",
-          "KYC_Face_Verifier"
-        ]
-      },
-      {
-        "name": "Nginx",
-        "repo_count": 2,
-        "repos": [
-          "FactLens",
-          "Medical_chatbot"
-        ]
-      },
-      {
-        "name": "Vercel",
-        "repo_count": 2,
-        "repos": [
-          "TripCaspian",
-          "UPSC-Tracker"
-        ]
-      },
-      {
-        "name": "Fly.io",
-        "repo_count": 1,
-        "repos": [
-          "KYC_Face_Verifier"
-        ]
-      },
-      {
-        "name": "GitLab CI",
-        "repo_count": 1,
-        "repos": [
-          "Medical_chatbot"
-        ]
-      },
-      {
-        "name": "Grafana",
-        "repo_count": 1,
-        "repos": [
-          "Medical_chatbot"
-        ]
-      },
-      {
-        "name": "Gunicorn",
-        "repo_count": 1,
-        "repos": [
-          "Trading-bot"
-        ]
-      },
-      {
-        "name": "Kubernetes",
-        "repo_count": 1,
-        "repos": [
-          "Medical_chatbot"
-        ]
-      }
-    ],
     "Languages": [
       {
         "name": "Python",
         "repo_count": 21,
-        "pct": 44.3
+        "pct": 43.6
       },
       {
         "name": "TypeScript",
         "repo_count": 5,
-        "pct": 25.9
+        "pct": 25.5
       },
       {
         "name": "Jupyter Notebook",
         "repo_count": 2,
-        "pct": 15.3
+        "pct": 15.1
       },
       {
         "name": "JavaScript",
         "repo_count": 12,
-        "pct": 11.0
+        "pct": 10.9
       },
       {
         "name": "CSS",
         "repo_count": 13,
-        "pct": 1.8
+        "pct": 3.1
       },
       {
         "name": "Java",
         "repo_count": 1,
         "pct": 0.8
+      },
+      {
+        "name": "HTML",
+        "repo_count": 12,
+        "pct": 0.5
       }
     ]
   },
@@ -1560,14 +1566,14 @@
       "description": "Personal portfolio site with serverless API routes",
       "tech": [
         "React",
-        "Next.js",
-        "Tailwind CSS",
-        "Framer Motion"
+        "Vite",
+        "GSAP",
+        "Vercel"
       ],
       "primary_language": "TypeScript",
       "status": "Active",
       "days_since_push": 0,
-      "push_events": 0
+      "push_events": 1
     },
     {
       "repo": "Medibuddy-weathering-assisstant",
@@ -1582,7 +1588,7 @@
       ],
       "primary_language": "Python",
       "status": "Active",
-      "days_since_push": 10,
+      "days_since_push": 11,
       "push_events": 7
     },
     {
@@ -1597,7 +1603,7 @@
       ],
       "primary_language": "Python",
       "status": "Exploring",
-      "days_since_push": 25,
+      "days_since_push": 26,
       "push_events": 0
     }
   ],
@@ -1647,7 +1653,7 @@
       "homepage": null,
       "stars": 5,
       "pushed_at": "2026-09-01T06:42:21Z",
-      "days_since_push": 45,
+      "days_since_push": 46,
       "primary_language": "Python",
       "file_count": 169
     },
@@ -1697,7 +1703,7 @@
       "homepage": null,
       "stars": 0,
       "pushed_at": "2026-07-22T08:30:53Z",
-      "days_since_push": 86,
+      "days_since_push": 87,
       "primary_language": "Python",
       "file_count": 77
     },
@@ -1748,7 +1754,7 @@
       "homepage": "https://frontend-production-321d.up.railway.app/",
       "stars": 0,
       "pushed_at": "2026-08-11T12:44:38Z",
-      "days_since_push": 65,
+      "days_since_push": 66,
       "primary_language": "Python",
       "file_count": 88
     },
@@ -1779,7 +1785,7 @@
       "homepage": "https://trip-caspian.vercel.app",
       "stars": 0,
       "pushed_at": "2026-08-12T07:50:44Z",
-      "days_since_push": 65,
+      "days_since_push": 66,
       "primary_language": "Python",
       "file_count": 37
     },
@@ -1807,7 +1813,7 @@
       "homepage": null,
       "stars": 0,
       "pushed_at": "2026-06-20T09:20:02Z",
-      "days_since_push": 118,
+      "days_since_push": 119,
       "primary_language": "Python",
       "file_count": 40
     },
@@ -1839,7 +1845,7 @@
       "homepage": null,
       "stars": 1,
       "pushed_at": "2025-12-13T10:29:00Z",
-      "days_since_push": 306,
+      "days_since_push": 307,
       "primary_language": "Python",
       "file_count": 41
     }
@@ -2010,14 +2016,13 @@
   ],
   "activity": {
     "contributions": {
-      "total": 428,
-      "commits": 393,
+      "total": 434,
+      "commits": 399,
       "pull_requests": 6,
       "issues": 0,
       "repositories_created": 29,
       "weeks": [
         [
-          0,
           0
         ],
         [
@@ -2485,17 +2490,22 @@
           0,
           0,
           0,
-          2
+          8,
+          0
         ]
       ],
       "window_days": 365
     },
     "tracked_repos": 25,
     "public_repos": 33,
-    "active_repos_30d": 4,
-    "languages_detected": 6,
+    "active_repos_30d": 3,
+    "languages_detected": 7,
     "technologies_detected": 55,
     "recent_pushes": [
+      {
+        "repo": "Dinesh-Sharma",
+        "at": "2026-10-15T20:56:02Z"
+      },
       {
         "repo": "Medibuddy-weathering-assisstant",
         "at": "2026-10-05T10:19:01Z"
@@ -2539,20 +2549,16 @@
       {
         "repo": "Lead_Enrichment_Agent",
         "at": "2026-09-15T22:33:18Z"
-      },
-      {
-        "repo": "Lead_Enrichment_Agent",
-        "at": "2026-09-15T14:27:37Z"
       }
     ],
     "event_window": {
       "from": "2026-09-15",
-      "to": "2026-10-11",
-      "push_events": 13
+      "to": "2026-10-15",
+      "push_events": 12
     },
     "last_push": {
       "repo": "Dinesh-Sharma",
-      "at": "2026-10-15"
+      "at": "2026-10-16"
     }
   }
 }
