@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:53:02Z",
+  "generated_at": "2026-10-19T11:14:49Z",
   "user": {
     "login": "Dinesh-Sharma2004",
     "name": "Dinesh Sharma",
@@ -8,7 +8,7 @@
     "public_repos": 33,
     "followers": 2,
     "created_at": "2023-12-13T07:23:53Z",
-    "years_on_github": 2.8
+    "years_on_github": 2.9
   },
   "identity": {
     "tagline": "Backend & AI systems engineer",
@@ -43,7 +43,7 @@
       "topics": [],
       "created_at": "2026-07-22T16:43:58Z",
       "pushed_at": "2026-10-16T17:38:21Z",
-      "days_since_push": 1,
+      "days_since_push": 2,
       "file_count": 77,
       "tech": [
         "React",
@@ -73,7 +73,7 @@
       ],
       "created_at": "2026-10-02T20:55:47Z",
       "pushed_at": "2026-10-05T10:19:00Z",
-      "days_since_push": 12,
+      "days_since_push": 14,
       "file_count": 90,
       "tech": [
         "LangChain",
@@ -114,7 +114,7 @@
       ],
       "created_at": "2026-09-20T16:02:24Z",
       "pushed_at": "2026-09-20T18:30:34Z",
-      "days_since_push": 27,
+      "days_since_push": 28,
       "file_count": 49,
       "tech": [
         "React",
@@ -149,7 +149,7 @@
       ],
       "created_at": "2026-09-15T14:03:12Z",
       "pushed_at": "2026-09-15T23:34:17Z",
-      "days_since_push": 32,
+      "days_since_push": 33,
       "file_count": 29,
       "tech": [
         "Groq",
@@ -177,7 +177,7 @@
       "topics": [],
       "created_at": "2026-09-14T05:36:14Z",
       "pushed_at": "2026-09-14T13:26:09Z",
-      "days_since_push": 33,
+      "days_since_push": 34,
       "file_count": 60,
       "tech": [
         "FAISS",
@@ -215,7 +215,7 @@
       "topics": [],
       "created_at": "2025-10-19T03:56:36Z",
       "pushed_at": "2026-09-01T07:03:38Z",
-      "days_since_push": 47,
+      "days_since_push": 48,
       "file_count": 17,
       "tech": [
         "scikit-learn",
@@ -265,7 +265,7 @@
       ],
       "created_at": "2025-03-19T16:03:10Z",
       "pushed_at": "2026-09-01T06:42:21Z",
-      "days_since_push": 47,
+      "days_since_push": 48,
       "file_count": 169,
       "tech": [
         "LangChain",
@@ -322,7 +322,7 @@
       ],
       "created_at": "2026-07-27T13:55:06Z",
       "pushed_at": "2026-08-12T07:50:44Z",
-      "days_since_push": 67,
+      "days_since_push": 68,
       "file_count": 37,
       "tech": [
         "APScheduler",
@@ -353,7 +353,7 @@
       "topics": [],
       "created_at": "2026-02-14T17:33:48Z",
       "pushed_at": "2026-08-11T12:44:38Z",
-      "days_since_push": 67,
+      "days_since_push": 68,
       "file_count": 88,
       "tech": [
         "LangChain",
@@ -402,7 +402,7 @@
       "topics": [],
       "created_at": "2026-07-22T04:31:24Z",
       "pushed_at": "2026-07-22T08:30:53Z",
-      "days_since_push": 88,
+      "days_since_push": 89,
       "file_count": 77,
       "tech": [
         "scikit-learn",
@@ -445,7 +445,7 @@
       "topics": [],
       "created_at": "2026-07-02T14:33:09Z",
       "pushed_at": "2026-07-02T16:21:54Z",
-      "days_since_push": 107,
+      "days_since_push": 108,
       "file_count": 35,
       "tech": [
         "FastAPI",
@@ -471,7 +471,7 @@
       "topics": [],
       "created_at": "2026-05-24T16:58:24Z",
       "pushed_at": "2026-06-29T12:27:36Z",
-      "days_since_push": 110,
+      "days_since_push": 111,
       "file_count": 28,
       "tech": [
         "Express",
@@ -497,7 +497,7 @@
       "topics": [],
       "created_at": "2026-06-20T06:16:00Z",
       "pushed_at": "2026-06-20T09:20:02Z",
-      "days_since_push": 120,
+      "days_since_push": 121,
       "file_count": 40,
       "tech": [
         "OpenRouter",
@@ -524,7 +524,7 @@
       "topics": [],
       "created_at": "2026-05-09T05:15:42Z",
       "pushed_at": "2026-05-09T06:34:38Z",
-      "days_since_push": 162,
+      "days_since_push": 163,
       "file_count": 13,
       "tech": [
         "Flask"
@@ -552,7 +552,7 @@
       "topics": [],
       "created_at": "2026-05-07T13:52:43Z",
       "pushed_at": "2026-05-07T16:22:08Z",
-      "days_since_push": 163,
+      "days_since_push": 164,
       "file_count": 266,
       "tech": [
         "Express",
@@ -584,7 +584,7 @@
       "topics": [],
       "created_at": "2026-05-05T04:54:21Z",
       "pushed_at": "2026-05-06T03:59:07Z",
-      "days_since_push": 165,
+      "days_since_push": 166,
       "file_count": 17,
       "tech": [
         "scikit-learn",
@@ -609,7 +609,7 @@
       "topics": [],
       "created_at": "2026-05-02T13:02:41Z",
       "pushed_at": "2026-05-03T07:18:32Z",
-      "days_since_push": 168,
+      "days_since_push": 169,
       "file_count": 26,
       "tech": [
         "FastAPI",
@@ -639,7 +639,7 @@
       "topics": [],
       "created_at": "2026-03-28T19:49:50Z",
       "pushed_at": "2026-03-29T12:17:27Z",
-      "days_since_push": 202,
+      "days_since_push": 203,
       "file_count": 190,
       "tech": [
         "FAISS",
@@ -688,7 +688,7 @@
       "topics": [],
       "created_at": "2026-03-04T09:02:59Z",
       "pushed_at": "2026-03-17T08:58:43Z",
-      "days_since_push": 215,
+      "days_since_push": 216,
       "file_count": 59,
       "tech": [
         "LangChain",
@@ -731,7 +731,7 @@
       "topics": [],
       "created_at": "2025-11-16T08:03:01Z",
       "pushed_at": "2026-02-07T09:03:12Z",
-      "days_since_push": 253,
+      "days_since_push": 254,
       "file_count": 26,
       "tech": [
         "FastAPI",
@@ -758,7 +758,7 @@
       "topics": [],
       "created_at": "2025-12-23T18:21:16Z",
       "pushed_at": "2026-01-23T09:46:42Z",
-      "days_since_push": 268,
+      "days_since_push": 269,
       "file_count": 6,
       "tech": [],
       "push_events_30d": 0
@@ -799,7 +799,7 @@
       ],
       "created_at": "2025-12-13T10:27:12Z",
       "pushed_at": "2025-12-13T10:29:00Z",
-      "days_since_push": 308,
+      "days_since_push": 310,
       "file_count": 41,
       "tech": [
         "Flask",
@@ -842,7 +842,7 @@
       ],
       "created_at": "2025-09-21T06:38:56Z",
       "pushed_at": "2025-11-10T04:29:02Z",
-      "days_since_push": 342,
+      "days_since_push": 343,
       "file_count": 15,
       "tech": [],
       "push_events_30d": 0
@@ -864,7 +864,7 @@
       "topics": [],
       "created_at": "2025-10-20T05:36:16Z",
       "pushed_at": "2025-10-20T06:32:35Z",
-      "days_since_push": 363,
+      "days_since_push": 364,
       "file_count": 19,
       "tech": [
         "React",
@@ -899,7 +899,7 @@
       ],
       "created_at": "2025-05-29T03:23:08Z",
       "pushed_at": "2025-07-01T08:53:54Z",
-      "days_since_push": 474,
+      "days_since_push": 475,
       "file_count": 7,
       "tech": [
         "Gradio"
@@ -1572,7 +1572,7 @@
       ],
       "primary_language": "TypeScript",
       "status": "Active",
-      "days_since_push": 1,
+      "days_since_push": 2,
       "push_events": 7
     },
     {
@@ -1588,7 +1588,7 @@
       ],
       "primary_language": "Python",
       "status": "Active",
-      "days_since_push": 12,
+      "days_since_push": 14,
       "push_events": 7
     },
     {
@@ -1603,7 +1603,7 @@
       ],
       "primary_language": "Python",
       "status": "Exploring",
-      "days_since_push": 27,
+      "days_since_push": 28,
       "push_events": 0
     }
   ],
@@ -1653,7 +1653,7 @@
       "homepage": null,
       "stars": 5,
       "pushed_at": "2026-09-01T06:42:21Z",
-      "days_since_push": 47,
+      "days_since_push": 48,
       "primary_language": "Python",
       "file_count": 169
     },
@@ -1703,7 +1703,7 @@
       "homepage": null,
       "stars": 0,
       "pushed_at": "2026-07-22T08:30:53Z",
-      "days_since_push": 88,
+      "days_since_push": 89,
       "primary_language": "Python",
       "file_count": 77
     },
@@ -1754,7 +1754,7 @@
       "homepage": "https://frontend-production-321d.up.railway.app/",
       "stars": 0,
       "pushed_at": "2026-08-11T12:44:38Z",
-      "days_since_push": 67,
+      "days_since_push": 68,
       "primary_language": "Python",
       "file_count": 88
     },
@@ -1785,7 +1785,7 @@
       "homepage": "https://trip-caspian.vercel.app",
       "stars": 0,
       "pushed_at": "2026-08-12T07:50:44Z",
-      "days_since_push": 67,
+      "days_since_push": 68,
       "primary_language": "Python",
       "file_count": 37
     },
@@ -1813,7 +1813,7 @@
       "homepage": null,
       "stars": 0,
       "pushed_at": "2026-06-20T09:20:02Z",
-      "days_since_push": 120,
+      "days_since_push": 121,
       "primary_language": "Python",
       "file_count": 40
     },
@@ -1845,7 +1845,7 @@
       "homepage": null,
       "stars": 1,
       "pushed_at": "2025-12-13T10:29:00Z",
-      "days_since_push": 308,
+      "days_since_push": 310,
       "primary_language": "Python",
       "file_count": 41
     }
@@ -2016,14 +2016,13 @@
   ],
   "activity": {
     "contributions": {
-      "total": 434,
-      "commits": 399,
+      "total": 432,
+      "commits": 398,
       "pull_requests": 6,
       "issues": 0,
-      "repositories_created": 29,
+      "repositories_created": 28,
       "weeks": [
         [
-          2,
           3,
           0,
           0,
@@ -2491,6 +2490,7 @@
           0
         ],
         [
+          0,
           0
         ]
       ],
