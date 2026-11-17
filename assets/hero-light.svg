@@ -88,7 +88,7 @@
   <rect class="rise" style="animation-delay:0.34s" x="319.0" y="172.0" width="158.0" height="17" rx="4" fill="none" stroke="#d1d9e0"/>
   <text class="m fg2" x="326.0" y="184.0" font-size="10">56 technologies detected</text>
   <rect class="rise" style="animation-delay:0.41s" x="485.0" y="172.0" width="104.0" height="17" rx="4" fill="none" stroke="#d1d9e0"/>
-  <text class="m fg2" x="492.0" y="184.0" font-size="10">6 active in 30d</text>
+  <text class="m fg2" x="492.0" y="184.0" font-size="10">5 active in 30d</text>
   <text class="m fg3" x="41" y="216" font-size="10">GitHub: github.com/Dinesh-Sharma2004 / Portfolio: personal-portfolio-puce-chi-17.vercel.app</text>
   <g class="fade" style="animation-delay:.5s">
     <text class="m fg3" x="978" y="68" font-size="9.5" text-anchor="end" letter-spacing="1.6">REQUEST PATH</text>
@@ -108,9 +108,9 @@
   </g>
   <g class="fade" style="animation-delay:.7s">
     <text class="m fg3" x="978" y="176" font-size="9" text-anchor="end" letter-spacing="1.4">RECENT PUSH DAYS</text>
-    <rect x="915.0" y="184.0" width="12" height="32.0" rx="2" fill="#0969da" fill-opacity="0.85"/>
-    <rect x="932.0" y="194.4" width="12" height="21.6" rx="2" fill="#0969da" fill-opacity="0.63"/>
-    <rect x="949.0" y="199.6" width="12" height="16.4" rx="2" fill="#0969da" fill-opacity="0.52"/>
-    <rect x="966.0" y="199.6" width="12" height="16.4" rx="2" fill="#0969da" fill-opacity="0.52"/>
+    <rect x="915.0" y="192.7" width="12" height="23.3" rx="2" fill="#0969da" fill-opacity="0.67"/>
+    <rect x="932.0" y="184.0" width="12" height="32.0" rx="2" fill="#0969da" fill-opacity="0.85"/>
+    <rect x="949.0" y="192.7" width="12" height="23.3" rx="2" fill="#0969da" fill-opacity="0.67"/>
+    <rect x="966.0" y="192.7" width="12" height="23.3" rx="2" fill="#0969da" fill-opacity="0.67"/>
   </g>
 </svg>
